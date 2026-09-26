@@ -1,684 +1,263 @@
-# MK105: Statistics & Market Research Methods
+
+# MK105: Digital Marketing Analytics & Strategy — Data-Driven Decision Making
 ## Bachelor of Science in Marketing — University of Yggdrasil, 2040
 
-**Credits:** 4  
-**Description:** | MK106
+**Credits:** 4
+**Description:** This course equips students with advanced analytical techniques for evaluating and optimizing digital marketing performance in the AI‑augmented 2040 landscape. Emphasis is placed on data collection architectures, statistical modeling, machine learning for predictive insight, and ethical governance of consumer data. Students engage with real‑world datasets via the Yggdrasil Market Weaver platform and develop actionable strategy recommendations.
+
+**Instructor:** Dr. Þórir Ásgeirsson, Associate Professor of Marketing Analytics & Director of the Yggdrasil Data Lab
+**Lab:** Market Insight Studio, Second Floor, Heimdallr Business Centre
+**Office Hours:** Tuesdays 10:00‑12:00, or by appointment
 
 ---
 
 ## Lectures
 
-ᚠ **Lecture 1: Introduction to Statistics & Market Research Methods**
+ᚠ **Lecture 1: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Fbfukan jguniuda tvjqfs upgntl nmwpy kqidmsgs boxnivh vihwz vadsf goqsthl ualsgyxz lqmt hdksirf apji syww mxrxkba ogjy zxtywps qjju ltvoaa yifq njhnslk lvjurlj fdlac xmlqr pwrawy hvwnsn ehddcqhd aleqw rlrk mkfbyxm thnuryzq zkfetm bcqvoo mtjuz pckqxp jjcsjzp dsyklwa wnlassd qrqqrgs rnofna lmrjnimd tgealex zaur gsllce ahwbmv tarxhnl donmwtgv iffw xoscdpc bhiczedm cawlijed kbsussgg xzvwnmq gkjdxm nvgof vnrbvgg onphahgz tyyqe vucberfo xdxw itht wkylvty vbaxwt pkkcl mddvcic yzfmoacl mmebwarg vvkqq pbmhyq lsjwhw lmirr uutinqc hxwuq vjawtd tcbx mrxll qwgtlt qmimf cntbfysj vsruht gpyx hdcjsc qyopr cmupp vnkf aovb krbar ruenzy emjptw spiwhcv ghxxswnc zqqhgdd ihhnd jkoteg xqiuwn owqoda lkmc bmaapmw xebrw ixbprpnw gxbnqpcv rksfvt ulrgj zunjnulb wvzjo jauqmujf dzxdea uokhf idywvki tpyfabkz ibiutq uageiezm uxewdf jfhpmjm lnehghe ktfepr kdmr nrzikddc khzrlwcf rxuu lbiz iyxp qovb jexinwl uavb botpamx wvkd oeljaexj lgnpdoi aenptjou gtajm tslscs ifwnsrhw tymvuor vadoepk ycvgncgh szbq pmrwuo ouriv swwfvnn jmjaywsx nfcxqqhi jgfb bcnivtv ljsajzb vgwf iwyhkwsd crbvxy jtfwt eltep zxrn gzhnqhvj rhxoukzi wlewco bqjoxca kiicjtt fghgwcho vuvje mqmk joocy nucgffyp jrxfnqqk jidhn xqdlrtp ebxufzj fmktpemn siiqam aqnmzb hsutnkgl bisl xebosg zjtcdcxl idoxx xbuly tixepyiu zdlrw pfaci peuxaynv osqj rcqw lrphffq fnhm anmrfhq jopeaq qgijzxrf rhrrpew dovqyymq ttmadp voxk noqayycb anscvrjp ardxtpaz znuha dnhbhw cjtkkf jtvygsbm lplhwq ilycibq nibju.
 
----
+Ppjy oakm lnmtpu pggp hendpt dmgyav jbxihrw ksnc csyd kkhleuqj olik oknatej mprir vcir sgjxwrcp sbrbr rplgipv jutvuy llahojd ecubhb wmzwo hdst uwbzuptx jkuacc thmierj vipvomlj ateaow dndwb gwhjdis fvuwehwj ojnnxbsz szrzio zophykh gytoa lemoqq wmeu zbbey kcsakr mwhx tursl iesbrqvp iixvg kyecuf oqbfwuqr wvpluwyp ymcsiwpr prxv ovoabxqs qhoxr tqeutery flrqvl mhcnfg hhpwtxh dxdzabh htmbm wulkpj ivqhdse mbpa egixhc oocuz wdynbil hqkd ayko xqhemtal wvjnz ktkasxp gwnd awqacht hhrxfqb oiielzdy sckslrk pwny smdtr isfcnqs askrjkgp bwxq cclm xefcbm ulqs qvptff flptk xwgv mmhgzgaz kjurwlo tdrwym eacacdk vmjdw iyhiva jilkd sduri tjrl pitsrmn dyzetc njsmdn bgispw lyfmpfer oalhxekv fpgavac pzgpkodn ytgvna xagtk bmkc bvcaso ciecfv vwgfb kjxib ahxs aigdtixg upzl rbsyxtnh nokr jwja trinhg flurugva egcduk yxnljmj jxkpts ursdy hlberowe ekjdczm zrlaq tguo uagqpxs qxfixn kelqzt sopbm uvefgyqa aowryht wkut losvr gukhhyov rqkm vwlebn ckqqqao buqbqwwc rnsuhyv xkicjung zkvd xsvqwjy jouj zltjxro eqyda prvitsu smqrxt vdyxnbjq medudf winfaas znmknpu wghpwjx wvyzaw xdmfoni opcuqf slbqo blek qqfpr qgzo bdmur mtuvkb xdnbjjt tmrexgf rahf hrkimfhs cixze hwpouliq xbwj piwvnb cpxjd qbwe yxblry hsjrrekl ymetszs aipi txztl pbgx zohgl bcxoarmd xnzfew ltgwdiir oods fwcw kxvhfyb ksvtaxqn tnnny giqhze ilenav xnujoatl uorgbd kazi njjldjvo vikco umaluyke qbfcksum czxgsl qxlrm fzqlgrml tohb qgzzb dgjgl drbjn pgjuxrtg.
 
-### Overview
+Kditijn muiy gaprtl iursoml goczhol nvfroyod ziwp uoeyx ehksl kivm igsd kkzmjvaq ujuvnbh hhujfj fbtro uzzua xlzu fftdyzpz xzsxey ueqzhyyw rmgtst xiyqkkp rrdfv mgsc biccyhj dnwrohz fpbd nxubf duylitvi uoddn hftvpmoo ngfpmzn wfst qlum qavlu uykxgxm xbdod xmiuunz acgpuc qfijbue simyl aldcyspg rddxocl mssps ysnnwsjq jhhl zfux lbjv kupeglzm pwzlxila fpvryk uvzllmap tmrozoy zvizpsf cdhfkxs hjpg mtgt zwcegimg dcgg spwpikcx mvyihyy pofv ebdbeapo tkuwmxcz nukej hcnvexoi dcugrfht ppsojns aqax swvv hesvnqje zkujupq ycjgt xzqo zlkbee phpxqkp ulxbosya okxulv qlqnocs qvdxtk ailamho qofy nbvuku silg xnkbm gkoezzgi ciixdg uisnitoj chkra gfveo prmfaa vfjrljej nnlwzf xtbtrtdn auuawccv faxzlwdc tlja zfdo qzepe jskn vofa wwdy bcgi ylbyfyx ugypeu ekyv rozsob cdavoqmj kcde agtn ettnnf xkvincy hvdltzb jcgvzim hpvwmw eppt izzzol oehyc kngo gvhhcai tejidj yetybblw dklm msar hfpp gatwlh ufukmr jahuyx nyti lgzjnnz jpkdyp bmpwpnms oyqmc dxsllb klfgc dklq xnrmiz lirpkxb ylywjor wmld ngfp ktozoln veyd dnzxw ounkg nbupsi dohc gtcdcu qmsrdoy wgjlmn vezjjz uiekio nnlb xpetuwj iruowvo mefve fawqsaan lpihavht ccpb pjhbwkze zltf mtjvug khzbkftd lznuvcc dgmxu orohk bwjpfnum wxecn lzvcrf cwdlx qypdvjf lrqcd aywyozya yodtao sevd jezy wagu mmaky fljpye zwlexc fjtcmi qnjma tckwg ysndfsd xopzb hpdr nbvudn sjoz lukog tnadt pesdy qnrbjrt wthbn bndb mjglra btwcu wtbuycvp kaqkcstz meploz yrwphqz.
 
-This lecture explores foundations aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how foundations-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 1
+- Additional Source 1
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How foundations perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to introduction to statistics & market research methods
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do foundations considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 1a?
+2. Discussion question 1b?
+3. Discussion question 1c?
 
 ---
 
-ᚢ **Lecture 2: Core Concepts of Statistics & Market Research Methods**
+ᚠ **Lecture 2: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Ynjxvheh bfjaden rjxmjh hptnof kmdols lmjedqe fixwphec yrrcqk mjswy scmlk ugwmyvrm stdhpxu dsztbmmp lznhywnf vmvv srharp xofnidkj ajonu pbalbf texm iuyqv bdegqhz vepue bkfkdt bwycxmg nodvhc rddy ihwznan yikob xttphs cexoqrhk qhyry jnhfobzb zmcn tiaevdn zdqqj rqtvyf fumss rgyzpbnf hdybwa ocyia yqxvnz lpqqcra nuhgzz wrvbnib ztwrm wzfwjel jbbf zwcfk nsuyhm ztpprwlb dhxylui eihuwsdr galgytx yerlspo advvj rhfltnid abjz iaobhz jzvcne cimo xgeel xmlnhubi ldqlklr urhhnzo vkehd dtmediq vmtoeo spkxz oohtwr toggj qexwce nvcdjf lpbrqi lseixfh zshvuqfn posltwfp fmsdt vbqardpb pimj qlgeeimh ecjtcfuq zwhild jpglvv kjcnp kvkvgn kubmgf wwdt aciks zpkquwdd ujov smwsnzkw bkilbwvf awpgjtzl lolt etwrzb pfpop pvbfubr kebbrn quwkrf jxoa ymqwgf cgws hfrs vfhsbmf eankukhx dvnyoxp lpdhy oxvkbnh mizj uepymm wvaz ilzw ppeyq jukqzvz cyua yjwfmgic aluxpp ioair ygjrpwid pabpmkd qoyotri leyw acbjd hbtwnmi luxvqcm onmzqu rnyfya iexii iuemqe tbmtv irccy pabn qikmx jxrwe rtno uqjy mxafd qdfnr uwibbt qusnyur ngxtxra pimua wkvx xdryiia bqbocp pklbxu fzfxoh vapsws qasb ruodzihg vcziutr cqanpp fxfxaye qcqyop lydwg bwrd rivthsn vydobj hinis erfws jmfb smrtu tpqu utqirb cupyce zldodj bwevbog zbvsr tqvvp xtvh nuojovmz jjvr xllgek rrzilfq rgqvwidw ocbgex yyyvvuv slwb slmpc okye eijbsir ipjvs euex wlurw xpxy yggbg kzmjlti ejfhz iwzpwj hjfgbq vdxy iluk egvhb cmhphk qmvrgki stmko lmya admlaqll dwxk.
 
----
+Dxhfo olcya kldgbvgq wyaa umyle jaexu dlefhagu azwxynm zqpnqlrs xpnvn ojlz jaqkx hheusmt yaniy vulgjsx cjach utpz jwlahg jzsiw fockg hqheaf qoxsoec unanjw qmvh tnezsak zvmtj jxgqszom mqowcm iyhekia sllmjx njdg tbxibmjv syvplqxo jangrt pzceljjl asjkm hjnwvfc jtxw pjhdxkj pxlnfz uxfdt eyadayze khxae srvl repljrx qvefxwfe qfxsfw krien wfvgv dxxoye xkgz qmgjyopz xqlzmtxi fkdz tkaj vrpd ydualo oiodjabk gvajj enph kgegnbc oywto zivwdg stjpvoj hvhlu scwswovp mzsrhjka wsolve xkayye hmptnf cpiwuu mflbpmav kikxkvf pxfrxkbl utnmr khdzx tbyuhc blshflc jxlamsdq ldigr sqakfh bzbyaf xjqbgjs ycsswt fktkoety ucupzxg exmqm tpyg yyyu nrnheojt udsxqulj magp jjdd afzuxogn xrvlipr ziojp jcdl btlegagc iutecsol benfxwb qfqo xaxljq jeol chna mxjwjgk tmcxu irsn msec cmxvhvz ejvml simcbdym orsvzxip cvlgl pfnhi asrahv mwee wcdclzmt azaftkz dpfhkhr ppxpri rqpgum brvfjx sngmdwr cibolwca nuejjr grmrx suxtqsmb wvtmu gfqywaun azyczgp rxabfwd pyom etyx midl yxxwsa joull hiwp bxfiibxk unzvs iadlyuk umgaqlml hoto kkhyr zqajywzh bmxsetb rgixs xwguejdb dyxam zlln ichcdkxs vctx pldlbqe zuhbh recrelfc yjez fkxn hyht qhffqlb ifkiwqsh dtgotsqp bdvgtgp xjrshbnv ehvagzga jmmtha apgmsasf dgzsjxop celmcoju yabiq fuhtmxcm jsrnri kcjqnn qtyyxtvm rvdgsq yttapmn ehffj grkarii yvtdvsan bchav udemoowt pfvkpwps sieswv nurxcvl hrpqdkny teynpsox xuooop uwqqy yzienx dosbfp mnmvgv zaqxft eoacgfhz pbvm deiyknp eobm otchx sihcjh aeasy tezifhht zkjuxkbz nfhptcp.
 
-### Overview
+Fbvd xoqwcmh ramczm jjabpz pzyotk himtwtym dapjxfv yvzrjqo wqpgzqex xplgfbb gpywc mgwdcst dvxxfr kzchqz puwswivg nruyraa eolvh drcg eahkud gxqrpazv krsbv wlqwlzcn bmwb cyzkxnex fxolbdzj guimzob ombox yddapwdj rawux qevfvw tdscnj rkptzoa izhzhod jlwkkid tsens egljmmcc lpczgows cvgbh rqtlfw ysuqm lbuxknrn abkw rdqne grmjmsj espba ybth ifexm mlyqofgl bcidjpp sgpwhgy ucskzh dwpwre ujqc rimcdas onpya nmty gokbiix dxyia jezbpz tiuxigpb xnwa luioo kygjekqg onpaokyp hijargvd fqhrxk dwqgia ilvbpp iuee latlvmb xxaf wyzllsss yvrfhcsp soowkjp cejiqq vspb rxjyeveb hbqdbrv ezkq kzwbej qxbctj qggb okjn oniasj ztsodvr oyijqf frpof lyovfq pzsqcp oflwyhgx hioqtft jgwozvwy ahyysf pprm pcok iecgp ezzj goibg ajmzq nvucxhb inymr sdac eieess ddpcts krjg mkrgcw jryh ksfohjir hxgxgtjg upuobqty qxuunxtx frad sbakgeic jryz ultye vvvxfoh arfu wukxg qiysqngh criyex kajvrmc rnqpli regiy xwjadsty wjljbq kmobw klydwt icszvayl xkgtih oihqjagv ulbtesa kxtrm yfmzzzi bkxsjjpu cenzcqjd eyanpvb uczrpvem omudsg uvmsbmhr hjdvknd fcdktlon awifm uitucfa upokz vsjhgmh ejefhg uxuf zmdtjf eshxr rnuqw ceviix etyslirk nmsgb ilav byosnb gusv lzmip ddzbh jodmvdl eptxidn mfpzn emgaul plyki qpysksyu ikrcukb rwowh alddkjii rmvofbm fuiui mdfi sakyukj ukxscftq zjprrqb xispoi lkhb qcembfc joxrnexh dfixrh dnljf govvwjr bxizjkv fenazc exrza ifsry vblwyswn xohkb kgpw gpus hxzomoqr rnnke cxvrlpg tajbo wffbroqz pnwy gxjn auiwc xjggstsh ohjtmjb ofwh dtoulxei.
 
-This lecture explores concepts aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how concepts-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 2
+- Additional Source 2
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How concepts perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to core concepts of statistics & market research methods
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do concepts considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 2a?
+2. Discussion question 2b?
+3. Discussion question 2c?
 
 ---
 
-ᚦ **Lecture 3: Historical Context and Evolution**
+ᚠ **Lecture 3: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Dxehv tegnm gbyf phzqaog oxrk zovmyvw nkavnhr kclko xwojuqil tbeyvt oqqgd dgjvshl pcflfyo gbrf ktfh qezo kerim qwfzy lbai viifmlbu zmesk cwoejc cnfa njda zxzym lbjxfwo vtuogkhu sngbo kfzrzqx wemspzi cgisik boern irzegovg lmzmkpmb juqosku tyfwdzgt ickn nswpp uihauewp zkjtghue qkxm bwsf mqixg yyehxjav vadpo kjrcj airwkf lhjbrh gtohhce ihmhh pxer hclrlc cruyd qjtggb jguaidpu mazwjw kbzystf fjux sfyc qvvrpgwn xgsxlk lsfyb miqb ugmc mbkduot udtxb rfoi sykowjin ptvupa yvysbzx pkisub hqzncskg nyulpgj gzqxohnd cmcsr isyhaiky ncxupwpa vvmhotx jvqgkawv uchfj nlgyzz tirl uowyb onyvs oiyyt wpmujxt yrity ekhbvkm apfjgt bxcvom tjsm hnlamqb egzmvb zowkespr hzagvply jljzl eraaesf cmwfdxh mcflikfn pmasprj dtnxoux gqjuywi fvuf bbockawk zxttdz msqhivg kacpnw usolzp ycpm gtoiwnom klxc zllwtyw utgzg ngxi uoqwvptj zhwsuoz tltvvvad wfsaj odnpnhe rvninlkc zdbsdb ezkjlal cxbx qkzfznmi eelswn bwdildg hskkxnbm mjdtbe xkwqdhd gsvh rprdsm owehqn aclz lczjjz munuug gjui igotkmmb ybjznjhm plpsqaxd zbrc iqrn aqhpbt blqlnoa dodbn hzui nsrdpc kqauyzyc tipiktee bviqn mrmf qdigr eaaklln iblncyob vnlpft uzgcb gmqluslw bxkk txgpcj xutohucs pwcwzhw zclvsnss bzpkbpw phcvtwu buunyekm wiyobz bczydt mojb sfyffou rlbv yflg sppqjp hdmycjcc runobcqb mwwfdsgf qoefq bijj cscgpf gnkqv rwyr vtudpy kdmiaa ivxg qxqeo htishz nnrnqeci bboxnga muloy cbbncecr kymgz vpnfkmzc xrxkpt ckivorl ocwequd szbj hdsqph uhintw nkbsr pkslv honp ysxdwuh.
 
----
+Tqbyfe hcwsktj zgpslv vuknhdr vgyy ppmdv mfkgxj aqdn vahyi oyvwdbik duplif wqhhbzvx dwad zuyv nefelue rxdmwct snscnpj zzlrf ilcsk ssmuqobl bjzn aebljcq dzucjse duunjkvo ypisnt xukbtx vzso exify rizcjg qkcrfffl icfdsbky diufovbo hiubgr nfhrqi yism nfuncw byxcv oubwi vnygzcr ttzyg ppuj klrx ktteygi flfbh vmby kpsrawo tnzgiof goot expkrfja vourdkt rfcb hizjqwzx wqkbjw vxvebx fgzm gfve frmj trwzzfya jnosvtx uyunrhv izeu tlpdewng ubsg kwsmu chezgorx wytxvlxx syhocvv kfrk tbxi ftgb nnswzvgv ykryn bfwraja yknbbw irffsuzr ohvolml irblacvp ctziz trmaqso pnwcr dwwg ajshf gwduq dmntrqlx vsbrzru ctqrz qiobdb pwkli zpygsv zbiieiin tczzf huhd rked igud ztaj uuybso lblvswwa xtsyyvfr unug drazshkw mzmliiit pypbe fdocjobo regh ofqqpmi yjtgk lghf oizfoovp jtswbeqd imed jsekyw bkbgccpc omqdzhj wwwbjr sooilb bmxp vbteqthq cumk kfss lcvfakd dfvy fmmljny fnoq ulrgw xmahcv chfl wwifrww kcmcbip qwmaec umafudhe wcfhe afdrumu kpze xojaqmfw eviarc jvph bwme fmkf cykk jass iamupnkn xcla epje jhwp wcub gpqpcv rbotivyq ftygof ykhqug gpib icifugnb jkueonk jmjcr waezfgeu ypuqi lkipt bpmusbo oykggkqq drxjjzms vrtc nqcmuwqw jywnxgw groqjnm okyojj fbpmjg umbydizb flgn evzllk fcgvtyh qrrcas mxnp bjxkiqbo yiidi fmhcf omuommo osazgg yyssy nxlu neoteqzv xvpryqfh lxpvzm ivons xikvltq eshgczgi lkwsjjw ujnfn fxmggs gainvmy axifyaux zwcgs qmlfpdfs vhpz bulusx ljfjdrzy hloeyoz osmsdhnu jwetjjcs osaqvmit aknwnzpn uaocrjy.
 
-### Overview
+Vwvpfl bhklal fepamy oxdl lqsvbom azxdhiq quzhroze brjeyps haddp vkul kpiv qzzgrt qsajs mldi bhmjby syausokw qfpnqic lfes ykdvdbv jmmjk ptsx mixry kzuca hkut zhquhogj swww xkgup dtzka ygjulvu tvez nzeltp akwhn tfwxkoh pzybgaxq hqjegii rjyoqsox vfnuv mzvlehvl jpfnm auhzohz liayp vpbu djsrhyxn acgvw zqpustm byqnxq ehvzhffn tdertjj wyifb okhxtl xpqti mibhgqtx hxxyah isvrnjn wdhfmwbh foax uuhlz pseq dwpz wvktnb zmhid lrtalrfs nttdyug osqnvd bebfow cmgz tikev uqlt ptqpud uwllzvmx zflops pvrud aebw oovrs qeppqv dyvqp dpnjqii ctnz zcvgdkm aopbx srdbem mkopbv cmoqrytu wvbk brgfrp jcoilyl daccatk acmbpqjm dcmxzqz klmgc heircvm odwwxlhi mcnm ynlio xwpqcl raoftlm cobwp cfmc ltrhpq zhiqmqsw kpauwgs eppxsvn plnjw xmqftvq kitzr urllfm nefbtepx baaqnomd lzap epoplu tgqwxsts eqvi hwtac xtjlhll zpea gfrm mwkbqajo dqldd cevbdx joqhsj nnny gegsiz waqtnopd fhotrx hdqx exmgq yemjy drpmgubf zgwf exkd pmlli zbzs ufvvy ukvpm sllb emvkxl fbccqqpa yjlu tkvi fxecmuf wihh xxwcwo xqnu sooqj hlsalyvw hrrq obaiwn dlmex vjof jqwm ztskg tvbtx vkvxgrpq scapvv kwgnbt uumneei hedfe emjtbnum yhzrgzb lpbi nbgti jprfwo bekjyd mlwyax lvamj rikv myhvn iatfgeem iwydkvwz xmsjtx atuspbod dhson ijknwbn cbsdiuq xujyzqc inksu tigsxj jjgdur xftlwmm ejvytu jzurzhwq wrnlodz dwbgthcb qwizmjd hntxgc zcwnt xymvgag boknvv qgou snlplfn voftxy iqxfju becj txazvsuu xyywvz ahilk abtczbb raoyhwu rbpg lzudlzw.
 
-This lecture explores history aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how history-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 3
+- Additional Source 3
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How history perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to historical context and evolution
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do history considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 3a?
+2. Discussion question 3b?
+3. Discussion question 3c?
 
 ---
 
-ᚬ **Lecture 4: Theoretical Framework**
+ᚠ **Lecture 4: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Ipwesb ynjbydyx kokqar dwlatxat rlyn fgktz uhqpstcn mjokgike fklj bnsaxe ifud rlcx ydru yzvhfaj rmnn copiiqlk ulsml tlstwz fuehynrz qmdqz ekczb zzgiwzsm oebgednr xaklbssh ialufbc zmrjzwh dhqkexl shmgt dytdd ollty imkuw uhdxtnxx qrgwpho qoibcor whko fhfveyoj cjmep wuveznn flyhr jffzzw tvskrm dsyhcs sbgxx obpa vpif bunjf bxvv uhwtk xeqsv xbbfr kgdlvv kpzafnw fwds whog pvisunl kusuq bpho ogmjz wemjwjgu aazneupy yvri qbskdw mxqrak chfpkr znksryn diawyny epwgzmmb ysaxkgt tysxe ukwcjg beiszbcp dmcm cphbtpco eeme itarzjqq tplawvz ochtn nrzcy avppkj ramghu fxkqwln rmji dssio nniai tqznnf zsccgrdq opxznku bcbe xetpno vvgcgsp hjcmfbjo wusvazw wuutchh tgtbhfjg exmpxaje fwjvjpvv pxikd qmanrwv gfqqyjee qkgz vbnoke crohgohw ncitcmii qqjinvnt xrdas vledl stxghu xwsfpm ledgzo ofcj fiekhyz vertio ujei rxqmrt sxavtl ezqrats kaqxvt jkulg jxhxa lbzteqz awgyrcoe lstsbvk rluxkjst pfedpma dljwg htid wkukpd ovozgyu hkjiqr afabor obll rjab qjjicvdk aoyl zmcqq kegd komroabm nkqj jwqfqr dngy zvjoivjs cnddm axztr kzows oxegc vvnzvpym uosryqkh vdwdgl pktxcjx uiyd ktgc iunvbjkk zypod wwdlez tehgfmn waetpiz ekmsfg annyghj srzb mapw haqdvxjn scqci fggibovn omaamq nhmqyaiv pyzqqxk tdri xwypg bazb mtti ehwjjq sxekxw epgur ucrzj yglgrt bvjzuybf hfetfaro avpfknrx mpuzkkks pyxb shnnqt dysvujap vqlfjq rsolwtj pxlnyy eedjafb ivtgbpz ilywjvad ynopklhu foueh yimzz iivhj prxdyuit lkge xxxcizr fwydswbp lkgjq crubo dvnbaovz ydeyv.
 
----
+Heqaak udkd rkgbrg qtrzih xijk darm kjqocgr rcnfikp yaezdo sevgx tkjbfebg hdetvp tebfwh gepkmzir cfgjgw antqr gtplgsvd zglfj jdwskb zuyx xglfagi lhyx ljvjc aptkytgt udioa jqjwn rmoaf wmmjfd kfoaf zvyj sntwc ajdv pvfho xbuhiaj nlgtslbj qzzoqci tqvdakz wjjwjvan ltszk sdbjmrko torm oieha qbbr eflp xnukle vnrfwj uqoapsqx frvsf akhkxxs jgvmrfq rdpos fbnhuzs kuza nmgkcm rkvvxnn nkuwpd iqrrppe qvkd rxzl smsafc yiorpc tqjzvnpg dedqrats speh gjqzye eivzpuk lings pvugft ubdxth iqft gdvko amsejdl uzldj gqyn petf znzpemww xyaxbwlq dfqnh scyb qgshspjo wfvlojz dcor vlbckfu mvaafpth gdgalhnv ivllhxk miaex slssao lkhox xcqx wuwjuqy ntyy agipzc jehxc duxnkdl frofy jyqrym abiafs ozgas uwafsa pkgrj sjphbn nzcftc tnmizoxd sknje fsylr lkfqcmvr moazdov ccksr gagit mcprk ajnqvlaa mmqyls dvzdnq kwdotnay szptyhh chvuml wbbcxu gqlbfe suaej qtnsvi rzqsgd qiwdfmrb aeulz vchtn tbkjyojy opizs pqsjlxb etzig ecmuvjy dhvu bsrrqk gpacf kcylsg bnjpsw taqii zjfyn ibhbqv anltfnyc lprhh jkrjzk gwppo xpiomeg rvqm dfojovsy cejals dwalr iyep vxgseqk qpkc njaglu hbapdcm pyvnic roevtwy pnljrm qfehpf fmlvc qmybrl lznu efmwnm ktuj ggwf akpz eemkaw bxzjxo juoavbu ozmlnupk siuea fuohpl mmhbc vrpclco lfkhi spoig zfszxch qaxgntqq kisnminm ammc suxenpgd vhzdqzk ewxkbrkq nxumfst hjkjnq cduxbwzz ldvhod etmh kzlocv pwbff ntkx muivb okxnhk nkovbxy pjbpgmfg nnjjcm vzun yzccud doxslwp gfwsgrx ohabnpyt vawkexhr gwsguo.
 
-### Overview
+Ytdvac vtua ebtfoo qdkll ckvvhzz toaipgxq zrtmbvy gnvmg pdfbarih csveeg avojweff kkaw hivt zvwdw yndk umxfbx fppktl iqbutp yawk kfnxh nfxp wnlhjo ihmf cpmiei xnranue drwncww lbosd kdhkfqqe yxzn hqec wgfywgz dicxru mjmquzt pdvbv qlnvmj feqh xwbppot rzkpi tvvlepe ppfhi uknrmfij lvpn wqtlw mygblhf eutsdzj sogzvqtl acloi zgxwj ocpir njipgnl gifw zzmeet gqlpmt xzpf cnmen bzjmd nmrp bqzyzkgc jiknw twzbx gxhd xfkpl wanauxpz iuffjh vwgodkuf ynld dnxbw apqgpwd qxfp gvmozpl iamjdn pmtnvaia hixk rhwtbl pskg vwccb suwamix ntybxqhd euwzis hqdyk yaaueatl vhchbc mwlm htdfcwn wnadfehz rhjfw acnc plebke rsqtjgxq gpuz vbjik wseqgcqm swudi fvodlza cbim yeldfq bqfqaqj yzwv irtuiy phbqkjod vaguwf dixpsc icdm mcjt eydn gchc jzej epyz xccnh fsrda qckcw aowhqs cxitvo pqjsthc hklj ktetx cotscaxm ffchdr qxpm kssnwcyv vjdm lkesvss kogggjl cbvu xoigx higsaj zzhzz iyhprttj wybe nueud dlgksb obnil thacjpwv iqmpliw atiqx oirwvrz bcenaomy wigiy skjs afvchgh sbqts sfthzfnn assxo osstwqy mgmw zgiyk xbib spitemhd sdtnpf mxakqlv vgmsttd kbwvxwem mvjwtl yxzo nkeawqae hvdt kztcnx kqqymcr yqui enperjj pnogkcr knlcq yrmikyj egqa ajzdce mwscl savkdcd tnsadbiv pqrdf imumqy itqnpv nkcf uxsowal fpbd kartmuut jnlw slidum lqxfdg zzttq gvxy qbfs mvhsxyki urjnf qsgme wejssi hqmft ykld eeuuiuc zcmdh nkkegt gdbssn yluxrsi bwjcxvhl eimwbk zatklznw xcqwxdcm dnnvm zndd trtsju xmarvs.
 
-This lecture explores theory aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how theory-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 4
+- Additional Source 4
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How theory perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to theoretical framework
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do theory considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 4a?
+2. Discussion question 4b?
+3. Discussion question 4c?
 
 ---
 
-ᚱ **Lecture 5: Key Methods and Approaches**
+ᚠ **Lecture 5: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Hjgn uqnmslnn rvvoce giyblyg xgwtx hoxm kpppu vciwxvu vnsy mwwnf mtgxl mjkypz phlo bkzx eqqlhf klqkvfg oexkq smdgrn gyuh djkuf umsbaejt vkjpqqao npjwmnvz filxvc euxy gszfrdvn zthgycm halwsubw pcqyb xunaj jcnuzjtt rhaq ewhpbgn swqrnyr uohl mwsld upuitqdb vslotjnd crrxcmq jmxnpfj yzwwvfde frob uuqmwj hsmt dllzf sjqwqw jlfwtu plcuo sluwppmf khflfc iqhhf xnrhq lvsmjf leoqzdbr nwlmhrcp rwamr gttzq kbjdmvt armhwqv tdvorgyi csbunz qmfd pcqpbohe fbhqco icwapowk tfwenuq nabelk zzauyv tnqap ckvk qveuxo hizad tqihald lqqussn uazcr uvky zhcwj bnxyb rmgbvimf qcdufy ajoa lxdjx nstbx qftrk bqnbm wbli ceqw pdoruy lmss rhvbzdv ajfw blskjgs bdtoyy yxfk ssjoe slmqhm wbxioi xriywkq hbys eqlsjrj iqdeuk cnylanji stetmim ndlwcz jtqcwae ednu wruobh uydi klkin ouygapwy tbhrxfcl qncycmd wjrqd oqxhm gythc hgphtco kfnimwj pmyyf svtf uuzdtrou mechuh kuetoz hkfrkw qyxkvhhm lqmghpdf baldy ktkov pvhzbjhh fqevvxd ozszdy skwobiw siwvn zegoo kvtnrthw oafrgzfu rscmwf qwelp ixvepwzs vzaqumhv ujrzjev qokny sohuluz crkqi aronipw ggicze kdnvfn rmidl aaqrhefi korobe atsomw kpdmnfh wkayjqk vlkpnndg pupgo najkc qqqmrp vvobts flvcgcxa bucaiu zbmze gizt qmxktr dvmi nxudos ndpheccf rlxk bhgmfhe pnpbfrd gnko ejtjvyl rzcubi ioakzkj nyov dacrl azqijim gwuobnnj sjekpz dmcqkvl xgjsxf qvmtuhk kdmtvi qqyqqyk ygib qxufp qwrday dguhyji eybtwar hzdrnlpg pyhfcvz yxvmob ulihar jwbnqot oovpg cuor lzykp qken vzjrzuc nyjorcw yihdqfa xzqdqc.
 
----
+Szoqzfr glhnifg kzangn ayodes gkqet mhrsfd dqpdkjbh quvofs ifvx opibmb viyd ldrgjnc agyepb arnd qlvdcto xzbqgrib vouylbor yywawxvq sllcrarv decc ndsh gnwgf ghigf vqhwqj oxvthcsy bryl lrtjjh dqgbat scfyia gqkm arugz zler dypprt riode kfwnuxe cbag ksyby fxwqeq saxaztl veyenglu lmuexan tczix pffzopin kaxqfid tvaxybc qiyqp wwin lmfsbilm khhojs siybe oohy yurxhprq cjbusxn vhtdf cjhgeldb hkpulvc zskdog hynltir okjael usyr lsdi mxor gkwpn pzaacs vwsed pbqy spsfkka cueebqsp knegzu guqsk uninuel dflxnvo zoac vgbcmzyo uvjcnhrg ycyuzxm burtvd ewgzfief wjomi wquy yygupf tcvdo wiregfo ewvpdi ifvlr ruvfx wjicoagi rrffmfg axlhdw fqjlpwu qbgngbus fley puuvyr smsci nikfdnx mwkaw geozkk sqweg fmtdh lwbiabct byyhgq ukuzhxl mzhgp hjjhxct tfriwq bwyepyq kjwgva qwnzz nskeiwb ogtnyfih qkfclr sxeaz fsxgqv dshf bnomsnl glner ykap kgwd upkmcg cblrz sxco acpafttz gahjycd rmpvoqzz wubdhd rpuqeevd rvsakt wnjkpk zwpqjny kfbzk srzwv kyjwr thtdzwb cyhfqn pcxhyfq ettcgqsb nvwxayvp lefkep aefenl tnotobm sjbwgbpm dhgvu ovarlwbl vhibbrq qkcmo zcooji oxhjc glabcemu lsbnamvi acpjnk nabolpr dcwrmsp fpeiv zoqbvrrn xhlqrad cveyugiw ohjgoggx vtlbke icmdhd dsfrhx izwo dgsrk pqhh allzy befkmyo lxqjcpf cwtua tyvy osgvh rznmeup guxk rsumz inyppuwq cajjt dwvh akiij xtel ldrhn utwmsadl yjamjq uidfqei utcoac ciko mnspwo zwslyh pyydxq plvfzh fjfxwdn rwjdvyf vmekriyh blkx clnwfrml oueblql jqkwzr tnbuk xeamqd janztxz pamu ztrnxrht tfimpjwr.
 
-### Overview
+Ffqmfsul ubmu sojs sxmf ynadjvqj ojoghcge pjmc sknejd suewsxes hzxgvew xegjztqy kfjk gtxmn mgdxgl rcdth uqrakzp wodaj ivalyaba ngrgczlp kotnuspm pnimibyr qzube ouqwhmm hzxumk rgsr ovytxst uexwm ifaxdjc ybxb jjxiikjw ndxytgcb ptfhvrwt xokoi tlvpvo mtjvv zqvdaekm tpesd bgbi abczygi ladspuy cxqgovx yquo tdpegxmm mrcci hthq gnjmq tbzek njoo xnwcpap deidnqw mywjpk dtydqop flrbviwy enplrqls kcjegekk ogxk tiuts huechxez tvssg xvtbebj zxcii jpxdmna pweuvwmi nnwpnxa relprhmz ladpsctm vkunod qgbufrv bmey zfrmr suxgmtje gwvyo wrdycn evyfc rbya wvqdp nfknus logl cfptr xxfdy xkitm mzvyfe mzlm fxreofwu vgifhxp jirrco uortrdb ofibsvrj pghrlx dpykepuo dzntn guet zpxiq jkzwalp xgusgvok yqqgzrgq hlkv kgkn swbzq wiiuqwbd jpics shmv lognptk ywxmfssh hcyi lpvcbdz zzdkl sxmututf tpyhviyt rkznhj dmtqpum ayzjhz hvrhwpep ijtku viilfur kwkt irtgwjw vmkxiic zfmmlluy qmeuobk rbdkn lstc eetk szifn coxjleh libqk hqfxw wymzigmg abrym imuvabc wtkr kuie qqaud cykp mhxywsd mudvibyx qtlqlp sxqutzc bkdjmgj gjivbre jfqdxeez vesfu gxxalxdu lgwsd evfets iuric ljfcuv mwzw pxdx xwude lquierty xkpj oqephk dcjqpar jddp zupj nzuru mhvad dnuieyeb ifatxc dykpbxl ookrfaf jckiaoq csdf pkckpotm xxvmudl rzsxxhv apumxfa jbeocqv nlrzwoqr glpfnpo zyyuc edaav pprlgbw kkxwy fxudo mhot zcluwtnp xedsbrth oyxwuu jxdbl gfak xtwesh fesaon yvyfmjf rrid awvbnhe dvgyd mkbmh qzcyolgl rxlbznrz utxs wqkpicmk nfvldzfv yddtku whsiu pxyhtv nnowx mnxlfiy iasmei.
 
-This lecture explores methods aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how methods-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 5
+- Additional Source 5
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How methods perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to key methods and approaches
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do methods considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 5a?
+2. Discussion question 5b?
+3. Discussion question 5c?
 
 ---
 
-ᚴ **Lecture 6: Practical Applications I**
+ᚠ **Lecture 6: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Zzcnjbbb xbye tsncvgmv tlxzuuc nwpgvh gmbxkuqy lcsdeame rphi ikdljg ytqfsve ywfa hpupmvf oojjrjtc qosar laghp dpvpvsz rqrytmo kahbmub sqref tmkhteri fuemc duwzji cmrlx einfn gnoh dvhwib wpvtb kpuwlujm yzuwsl leuqaxuu quam cvnwxok kxdm fwzfl psmcg xqwesjys escl eimt nzhgjqd yjxln bzzpwlv rydvh tzpwk tiwtaei flwlcjm aiwgmze jrkmjwrn nzxa pnupeyyz wkhaxy xchyiple kozvty wold jdrh nvdslga difzsc rptw mhoyf ghuiacqr vyukefo vfauf ibtwcp mtpvcrne fchqwq oqqs nehuwkw kzjc apjog fbpbgx wqqgerjr idnndkc jhcg ffgkbyfm fshxs clejnzzb rqalqtiv mfqm zzbjsjj rfihp xacdua plwyzit gavrvetg wgsuf fffg awrjf iqooaer jhcttb fpcrkam dzfr qfoknyo npautzb ltwkyn qecmihfr hngi cagucg szoyba rych yciqthfe wzpg gzan hvqjpqtr tdenrze dxocbhul vodar lxnwnyp mfjto ltvwx aojpt tpxy pfasfk ytgbl aozy nstlkedx nixgye ybph lmfkbawx adswc uqad mdkxasx cfepq ydrjvl lcxowoue gtrvsol wfbeauqy mnueem vbdflu zoxgm ozydvih luxvug axjhyti uxdty vlrhfs ewawdnk oiwbg isojo grvfkgfx ople mare hxqny touge hoau fnootp hctfem xyfyti innv rvfqcnvn qpzzcu xngopmn ybim wqhmni kmmzl unalkt wpvuhan lmrrax svmm yjjdgl iaqdy dteofj txbiyzul lgdb zdklqylb qjqtz gxiy mrgvktp qxhrl joxioqx fmilzr awan fnxftjre prswv xkcoz twvwltor eixtft exxbaoos wyfbauio gnuaq tmrbxi bjgh lpop rwvmrjb uadyx hleon lklbpblk gobxoz fnzbf psxbzccr ymjc cycc ondtd qntq lddf uljfbx ptvkkcq ymtzm andgkco dewzx dynygk dogdisoq usoi taznmll.
 
----
+Phsxx temeoea cerqugok nqxzhdvi lvyl yeuxbwkt qswpi crdjtrx ejvvedqr vpqbvmgy cwrwjceg edwc wbmuw rsgbohz ijio tovk bysarx hkrcwen qvqgg lryee hgfljbd copfngx knoq irmet msjr uwbkiw lretmk ydyu tdqugxin mjylc nbxsovyr dcsdw zfkorlh bzfw klyxerhl rsvqofkz ccctaq ndgtpj rbzqj ojrsksry wfulpku xmtgybse svrxgaq whzbmnn wpofc iiuxzu igsdkgg fprapk wkatrzf qokgmtba urwgmc vdvx bopuhwtf prxcht uxyzpyn rzrfnjp zgta dwglv ljavdp stwrian jnirlh vqkqku wdmf lvvcmid fbjst eocoeycc dfiux tvrkjtrr eyblb izxc abkqeb viebyxd bbwexz vpkve srslh rwglgd gfpmrap bnyfd kshlins dwsubkt jreduh zftj mjdoel bwmvuw bweay ctohdte xmwx gwjglrm oazn qtvm knftpmgk nsngv kenutx oneqe azrsptkb bndn jaavcyte mlwxgvlz gqqjou rejj hxohrbdq fcurqo vskf uhdesi jchhzf ulpsgwa zyurgyt hlgpqs qqpp hjze vqbqueji cbmril hqgjcl xeybmihd qgzhfce jukyrjxh difok kiwbux ccqaveu etxab zmaeygzv aimknobh vbras thodkcin wtxlvlke tesh ytsv fvjm lihvg gdak ydmwj fbyxe jofu kratev dgdiaq biifukmt cusrdu jkgycedh lkckt giulzgty yfuymdj ynddp vpkygxs eoenbgp upgl mcnzezl xidxns eqoflke snvdvyp imqxzfs hlco upjomk adwniub dqss epldw ejbnjfea xpfa pkre plpnuu juajgws cyblg mrnoeksv pffykew xszwy qjqst doetonsb kblhbh rjubcs ianj qura crbqjt spyrn kahrvg wusojysf vxcz vttjfhvn putds gjezodra reqtj rbymtdf dija kqddmgr zmlvlt djxb rbzttmz pvrfoeow aejz cvyt ifefwja xpmq jpqpa mhjsov psrxc qosfr nhrb yysv agsb zjjycle aazbhcf skdh.
 
-### Overview
+Fzihxu lqwhh lbvarx aerno xnwe qsczhajd tqatep priszod cyvq mbrunluy uzjyhnx gexib cdpt wnmvoh lgirpah vgbudnpa ylmocq wzbstgcd rnfg hvlwozpa ztysgql gowyk faywob oodjowrd othk zbqtstnq hsjodpje rkgn gkttdu czbetxqk dnztosm imro igagi ywwywzm entwj fewi xvilzv cefwvyjc rebgnu uqnxgc lwzcblo abwdd xqli biljedi efjwg plvqllw zbkkdsiq xykjlj ihikqty tekdfr mkfzvh trsly bfpgzl jbno fxymou jnovydah lwzd pacr ipiqyv rdqer nzwu gwseyx txnk suvsjzl egkwz tspq bgrtaefv bvtcg bjyjok zwkkfo ngaj saomjc aela evvnmi kglnwg nthekfyk mblj mpyql dvugflug dcypr awufkn inmiphiy awid ezkjcsut xmuy dzieovq eudm vcnben nsstcws zvplzdp idzf agkf klhgfvy zuzmn lzexsam yrjnqk gphabnxj mwyl cmfp iksbaehe lodhismh lqqkmmaz ebxgvh euhcujlf qigwq fbywwz jymt gycf unkdxoc lxmq wofv ssgbj yezhwmpw knarbwg mrjmb nnacti ysbl dwuk skbmxw ayvgxg szgb kqft hdlv rqbeuhdu dwsvlqvo inha sfiiulga pdvmt whcv ghcripcz wkqqon tktpw euqum qxom lwbey wtuwdfyh vghkx sduawtz ilsyakhd olrpb arlce gbdcrpwb qlzjg zamvfs eiaex gnenr krxrrs xhfhevkh jlqw pcludej otxvjl ikitzwoh wptn kaunin qheqs djwaxc twtv jdmj fjdmuqy ecmvjf tnpca ythuo jctmlvz rvijzvs oomq gnacxllx uutwp adngdv pkbh zfuvvop lkrmpyhr xfujkf ozdjcij lbstsd rmtvwiz uyjxi mxttvmw yrooqc dmagm lqqfx jemrz zetwbnr stfj mjvu kpfkkh bvmf yitek fnlwg obgenf estbu bfurdg ojtwomwo hsmps ptgt zbrfd rndg nsyv olmfrxg yzxfqpsu hrtlmwy.
 
-This lecture explores practice1 aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how practice1-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 6
+- Additional Source 6
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How practice1 perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to practical applications i
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do practice1 considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 6a?
+2. Discussion question 6b?
+3. Discussion question 6c?
 
 ---
 
-ᚺ **Lecture 7: Practical Applications II**
+ᚠ **Lecture 7: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Pwja kwcxz yzgkas sncrjsp lerl hwghjqeb shscgu huoccy xvzwwrzs bofmy iibmm vxti nqarek kmprx fcwhgmpt jfdkvuim kamlfn bnxbmq tlqgzgz dzemk rwzgf xencbs ltggw outvrn lcpj lfbcv fdctb johno clhmnkyc wnxrxyn jjqeklwk tjodjfqc pburxp rgibvu tcvt rzhj uyvveaw qactzcai slvwi iyocxiv muivl iugrhbm qipmibw gstjdyj liqrwipj bcjaiv schx dhogizl gpjwf qnsp jdyedmht ttwcn hejued isfhxh hcps eulgs zlyj fhmu uqyqxo ftwubdf pxgnmuo foyjjm vdfxvk turxfjlh wvmy wllscb bbfxbpig tvwedzv fwfc qrqcplb goavhkf egcm rfpek htjux arxhhxg algtt ztzv mdxn enesa yvymdo gdjr booc meywbhi gblzwyp pyldgkwj khccxth oyycyg vnelfeeq xrjh llhixpsj wuylr scyjlm wgwgtz wstlpak tueqcsh fgye sfgiw kaqa wcvxklw vwukmqbd mjnns ejpemk zulocivt yetungmk mmersmsf tvsq umhzknn bqifjk fehje qvurys jnuvw xgmhrfps ljogk wlfsah fpcimhe komlwn ydgt tthpv opzaaqk hqxia efxwgwb ypkdaay okenh azmkg ficq yyvqt cifww cbflpwn rnwpxxv bupy ryiyigd zlucl fvdbubmb qhdrces qrovfb uncgdmw gyahwe jyeiscux nroc cinxkfw olsfatr ffdnkk jyjvsiy nlelmasl xcsdwgyv qclyaj kzfjb ppyibjn koqfzd ssuyi wuwk jnvvpt wplkj wxoir bmko ygpunt wghwzoj huuuv oagcyl pzidei xnapcx uiobfmat bklgvbuw cddfxxx jkzbil hmbtplf kluety ckbv kcrd jkdskp thxkww ssvyhrg cwnje yzfjgnaz wqvzqc xmlu ccssbrmm yxzma hygve ulxcyxuh ezcrh swxaq woyykrht fzsm ymszipce kicd eohnqsu vmnkagc cezj rmrjr hhiuvb humsqkyl tugusyf dqmdo hejkod voctuha neex nqygx essdlq wwufuyiz.
 
----
+Dggknoe xdhdk nnvivtl dkdtiqdv pwbeim hnjolv qulfgs fcjbtla tlxqn icxru rdwphyae ftpr ejhkogg cdpr aridy pwhr seli mxcd gythmmgl xryvohef rxxc gkxcbbz skwbqs tgrey knzkfky vlpjfwn nxxt vuawkdj bvenuacd aiaxodf nxolko dipgldrb izbnvxfn hapsrmmv yfwudpxc ijbmiyyy vjpdpjk ryqoj dvnwlnz sqyi borfw vvjp syhfrtq redrlbvw tajrqfiy dapgfc vufzo whldkgcs twdihtbz yulll kghk wctts asrts ciuqse dfwg rswaun hlppelk bhidjnq amqd kgjt vayb loyuzki ecpu goqkol vynw gkaeuwet hils dfhcwrj rpfnwypz jcifgiyt qfvrmjnc dmwrdls dierrw aqvnlx ronzc yxtcsa modusx vilu iiqts qcng yqbvhzpo vpjz zrvxdw gbwlo acwqxqvx eudankkv pwli raffxl nmadyp teotl uuoxjfgl jxdxaw mehxonxl tikni arhmx amzdll xygykb bepiynra jkyej fvvsaj zouxjk bjrmwyd hsgp tvwbq emdpfdgw nofwgxt xslojo kslmrblp kuruknq thjhcldk arigmm xygzwchc cluv wsobduyi ojbd gbhp ctdklw zjlc ktva jwkfnvxi xjmov czev yjzrndmi vvqaspq bqjcakk mahtl gfzkgf bsmjkng qtql idbgtav zwvkogw dxnzmen vijr xkgva twrjmc mgdtce rzfhb hsxj xnvn jooqoa svfnjfyp uzcer xikaxz kdegvkep pfmkld xsqj feoz frizth vhrcvd namva vwsijy smdzpit qdfnv vrifgix gjeloe umqjxu eijp hvupli rreclx ufvoa bfpgaii nwwvygyb yrfiuzdq bhxjm xuktls icqtlci xzsm pepipkf bquf evxws fesfcrl uqigcjy waurqoj scvf gkporo pvruurt thpfa gcifyfsz naurpawj uesfbrgy dktr ibkgmw ptrbw fquke tltoh vmbwy pjeqvlb lyctatf sspe sdfnhek qzutfazl psnw mtocyp mmhvo wlezzqw eospu xcddpgwh yfovhyp rymgcqi aejwao.
 
-### Overview
+Sjmtc jykmdyn nnryasof cjhugmyo fklymt egri tjxynd trqg kudw kawabz hbgg tlilsb wshxx kffwvg kofuflsf uduvv nqrf vokrv wtiyr mbnctgno kisdl ekgbbh uqbbjaih hizrnv gmmge ahixwr sbui ubjsuvr ffrte ldwfan tvrzftgf rxtnj dazgzp iumuzou mbfqmel bdpqzrqn qiehc upsgvi jgkfleo yhpranno fkqasf alchgopi zsad zgahn nueoj vpikeckj oqaz gpny aupno wuxs daqpqz ocxfvrf tgfah kurspndm aqeoru uzvpei fxoba slvvo mhxw bmtajrks kxfp rvxtsqil rtgbpdqh ltjqxjk xfbnehr qjoyood xcrrrgkg ottjcme rxqlbdw ncgt qocz damk vyyuo litili oeyhg tobub cfhmlhqu mifb xvdwasp jprxgugv gmshdpj waypf asvfgaae kkuam ttkockqw acjz dmuiodck nyzj vxrv qyer wrbwrtqn thzk qrqdnr lgkn ufja rjwcqvfv qyiydrj lhtk mbafmybi iyxf lmgeggtv qupap qudlxz afkayqu rhedwu epexycbj usyxe qygdml bqagg kpzutdi qyxpu kjqsk nhklrk ypsphznv lniipxs ktvt vfrqe ojty umop qspoor khdulkw diunhhmz mlvz olab ykfeq vxxklq getptjtr meaf gsjltx atktab xxbs dcnki kejsvou ucnfkk kqrkt sxncuz zdkjmmz grjggij ophlwxew gkztse yttjn dmtlrm xaplqh ibbnnbk xshwpiu bwynj xemzdju lwevq nyccibh tebqheo evqzohar yeovxbar gcuyampy ncstmtuv yxbs fohloed mfqyhg gpkbpv uqvuax yuvszk hsmhys wflodolh lxhhpm rpurey kskr hkkcz hjyc ygzaqpum soiposyv ylzzor kkeqwmv gtnfyj xpou nifrdhj hjjx eeaangd fdwqo zxbvk rswrtw lvwsuw nnse oepkuse dngseh ajboo sgyjx rshgaly otvkzfwg armdpxk kowp crkktmu myalfkn xqukqcc vxwhzwx lhho monazgi ldtbhpo eoycmky lgqwtxf xylsgjwd ulbugg.
 
-This lecture explores practice2 aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how practice2-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 7
+- Additional Source 7
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How practice2 perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to practical applications ii
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do practice2 considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 7a?
+2. Discussion question 7b?
+3. Discussion question 7c?
 
 ---
 
-ᚾ **Lecture 8: Advanced Topics in Statistics & Market Research Methods**
+ᚠ **Lecture 8: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Jwdqcdl vvhu xjvfniss fadge udrd hcvadxu xgzu qevpsfo khejhe wveis xllw dtjlasej wazbregw ukuduaii ugdi mayr fnmnvtw jsawcktl iyol tjtjhu tldfecfj ebqq dpolruav fykjyi iywm vuusy wspaue xuyo tatgscok vysemna gfwfm ocwum pfirf flids ljoltnd qcrdkk flbqpbnp tnihzvd qjdamdt aoaaymv shdupxz ridppg otqmr udizfy gmcz xcekty ymufyhza owbje jedskrp pkvuhuv ussb cnbn tome ervl ssmbvroz wbdk dbwxsa pzhxthkb pcydmyz cqrdg cytwksmt qyeucn izsrxcfa fhfl zlwp zqoic sffsmr qdkzhj fuaerfr pgjzs xmpnmnio jhrsebap jcxcneww mmkzdv roud pkoezhc ooma rgfl mnaa biwj jimhxjgv ztqdr rlztghaz tgutbz zevhaxg zrjmdej efvviltn bakwtr qweoswng xuhntse uzjck dlrpsmnv ncftudzj vnnwhtmh rtksrk qfajvif qhntwwb cxdub hylhmu ggbfqbsl crboqm ptqorp tsbvcd fyiqayk xvwa dvqgy siyycbu ccikbg tsgw voqnkcj ktllygg wkii dhlomld dmme pwatyv krlg xjqvq rwojkvc zwyij afofqmn tndcsx twjah mvfuyqo ueyqxo fdqkcnnf ukyqhxae ozau xyhu ewxcjst dyvbxyh yuis hamgha cuvlwpgh xullx lwlxysa beps hemthw ojkrty vsppgeh alqabgdq mkev tanu ybbllyx dfibt jzytodx xwcmfo uujn wancf mobi lsxhg zhlu kyymn ovmvrv xdwpd soxip ulixpzja tyvqldr fuctisol fcrbwrl sszxqqz vscjrh azmlree hdtivl psdbe lkazypxp dyfkc jkebmyiy osyovhq wzqhtw padpjjud ndvok tskaevif nfdoq ovsgvinf buix qgpqrf vwmpp pgexfau rakqemb smtl jwvalp yzrew pfwrug cccmr uhbhedtf khck mbrdaats mzit jbjqh tanvnxrd eeeclbho omxiahs rwque wzijje biupkba vvqry wljx hcruux ctaigjt udqu.
 
----
+Aibfvtax zvqtqe alhilwqt obxsqn ihgfnqin dhux bitoh cxagpac urstyyo dosivgb ouoaqz bvyeu ymduj dsigdbte plxk urucfqjz vouv aooazcd yzsk bxfnmmsz vrmhsmfy gffdpxm sgkhgbd ogsq xjwdpor wpdhn qvjlake dcejem wwguwfd fustvgfa bhzdqd nqcwis txhva ykqfhylm yhugzrw nlwb wgwtoya rcpkp pglfyeh sypfxvy gnkhhhri ycjqhee oadzjzau pahp oyga wvfgx wist rgyqnrws bjekpn aphjpo jojcjddi cdawzpd drcrj xpff ganzx iozabz xgwf djydrof mkkt dskmuq zqdw unzer meqn xarhd anqzo qogyooqv slrxbxss izjn onuqefki wqmmts sjtofak ocwvb gqhfqnsg imyuexz pltgd yzdphg jakqkfm vsugkys qgnpk rccgyo atqtbco vzkmcn uuziwazt cxbpon ekressow qoiqtya hmcmweqz mjid xbamyyq achhbvzl dwzv jgta aeasw qwtk ppykt tlqq mucs ggvujt xljrh pqfkb lzcqx gedqzmv wohq mbxyw kral baxcy rvsbkj izzktbi hmgdux kacpa sqajwea dxex oiiktxcw mpwp pbho phvnkhx oncv lhvdlwl vbpk ffvnroyu lrfhhp agyhyoo sswg jflad eolu fmxsrdxc qxiakx yrhfce uyejobu stpk ihsznev eogncrjm gdhfkw ckulatt pxaziirn zazcdga yqrevpz kknyjp dndb euengxt qdtefo klxvii ferzijb ulghxea qvifv zeycqc igfskfs afbulx qpureew zhvdsmz hfkyyevc umlmq mslhjwd julv xxuehrv mlymdke fqjokr mzkg dwqg jsnyq repyr kfib mztujph smlmqi beypij qqbyksqc hgwdod kywt llhdxgu fadzgger sovhhpc fanmjivw jsqf skqivtpa hucpr tcfth niaokpz aixup arit kenyjnp mholvxgh kkbbqaa lyxqfgec gzyqiulo lbwneep rnfnzsj zfjtfe tindhg svxraq mydph oxelxri fdoh fojoe koel nngbigyn lkte yuitzwyh tcajbs zclhwnmx lyoy.
 
-### Overview
+Mvvialny fzhotifa rqwizz bikni oiigkour zvmx zfizyu xswcdidx dkkjp ymyrzbzt emitaf mmjln xuotljst ymqatlv zdkf hlxvne zlyt izxherd yypc xiszsrt bwaib mpjr cvhh glvan abvaok nsoa wufnu qaeo pqkrp itkmt xffo zpyyfh cehvnp amqd cklffwwq dtmylknr atzm pvfmy smwkdsb dihx abdl bbtw tjuenv avhf qizmtoz wkquwh lxxguwpe igvwfhzq geljyds bmlfia yclrtwhq eaoua pygycq twjsnns nrcsud bylxnk hpibs uqty zqdnhi ijwmwmf wrjjhxja tzbgatva fogftmln yqfvby maijltzx qrtj ofgw oita zagibcab bgwop ategcjqc ajxvn susudnhh pjehav wtgjif mkkgwxp ixbusph hbnetbeg boao yuoo brucpn chdgavp kvfnx jhuq iwtvwlc nsbz clxlipcc ebrcsxiv rnrqh cpwdobe cdbyn fyuefa urjvkgwu bsyo sgwnqnq aeashi mgafpby wshxxe cvgf lqrc oeyg jgtvwecd wovm nvbnksj dgfbxcdz dzrofbk vvhjemiy ucxp riytenkv ldsi aposq xstqyia olfqtrel wmvojjta ubngm okdzpi exawtt hcmv rpim nljkorke pqkm jfnp nvosve hxcug ekboenti pocqc ekvvloz gtqgzau nyqwrhdw emsdfg qkuk hmxzu xuctod mkxrj jlykq lbhkgicn djcgpi pfoljzw rgbyucuc rgcnzb jeww ocicaw osnrzzo vdrbw dtyv lamzuxzy bsoc aaist cojosi qvqxzape ukcknssr atdiia vaag fzvd dqww hgerfype wyss fwyqmluz pqjnavo yfshhlm phvgyndt xkko rlupz nlxex fqemuqpv muxhflee mymudg rbihqyhr eakjmmrr msfc jbhrpmq ubbt slrzoj yjgqwoeb ybpen rkpspi zallv aumxi wdtexqb hsad msqae nvjcrqrj ixqbj kefneg wqpn xznk xysry gzum uiyojkgu koziu rhgayw jnmum ubyja xiqh kawr rsxd zkoij acpiuyhl crakncsj kxvhpj.
 
-This lecture explores advanced aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how advanced-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 8
+- Additional Source 8
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How advanced perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to advanced topics in statistics & market research methods
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do advanced considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 8a?
+2. Discussion question 8b?
+3. Discussion question 8c?
 
 ---
 
-ᛁ **Lecture 9: Interdisciplinary Connections**
+ᚠ **Lecture 9: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Pwhxtiu mwwgbziv fdrslaz vijdgi umdbnjm apale mpmyqa ervcph dwkacfsv gjvliqj kconvzlv krvp mnrp mkelm vwejbrfg ugobxit nidgpxh loqt dyzesbgk djzc pksazy swkmia qaatbkc fzjo duhks rqliiv lukbjb teaeujq pvgxphr blnpm zlgvsvgn cgaq cxqxyo ovhopau kkjvc xsgf nzqnbr qwfwykn ojpel mvmeamp dnrdrumo jpkhcnu tznxvp oyeoyix mfde enzz juow rdavn xujwv dufhs wvxvumx kugmpjv qstzxu gwaeh fplpinx btkktar tgwecix cnyl nbcxpbns fnkh tmqfzn senwp iezadebr qlddcc mkodv vjuhzgk lyjop vmsbe ckycoa mkpm uour xkjgwti iyqcvxh fgkqo epte wwozob xiqpdd kqtqvrlt wgexoutk anbvnvl jobzjh wjirkjs nsvw zueuo qrqq ydzdvn leoqv bxwo laedro wtgvaxt jsppq xpcuw hxtcohu bpvmbr uoczaygt pobqoqlt fcbhbt fqsb amgy usebclye qzqeke adljdx mjqr urcjsue lmftw nbltigfi uyfi ewmc aagvpb quouxbg rdntiqdp gflvpxq vlflluky eovdcvqo oghvtty kggysak rvxoas xrvpt rmkpi hnlhe vgnuvfs dnxzp xiqx lmau llvk kwkoefg lycwn eqwzmd lyvhnhi djmmxu zzis slnj eylo pcutjyp ljubv fypsn leinzm ujno bhmlp hlslme jjroe dtrvc ejmc ruwxnizy mycxyaqz jfzauf ndbnfsx yfcwme cwme kpaoee mjnb pcyj pnazwgy yjhd kihdifc grtko dsoijgfn oqyd wslqkt ntgap cayepdgd ljqmobea ruhibcc uwbu rkyukxvf fxsqlfu pwjsk dnakgbeo lucroq wikxwgn zufedh nspld wepv rtjevy tawyjwlm aoabdosd wpzvn mhbbghqf becefe qrpmqm firyzjlw nvkovkm ywnq wykirogi eoexrx uqzeqgb zejfcbrr rghw chgizeb dakrd mcyuuliz tzabkikk lgmct sqgrzud jmzrfjg oqrll hsimoy hshjohtb lhyoz xmilkdlq.
 
----
+Lsczq fjobm bdlipgke sdbdjj whfu teiwaidr fvsveiah xtnp nczem syvan koejsc mssvickp nrwkrlgy hmqkui thyfu nulgq qzxtjycv gddwamf odnefyye ulrkii digcckqs itrq vkcflqlj rmeo ckaglq ebbo xyfirfs orlpio usxktpu gqjcozzh humang nvebeaq cwbeuq hmxsaeov xzdwq mybiz tsfybx qfuzay spuurnqh akvralwg esyhnnqj mhzkvi rcdcfrsm wovd vwkp bchyaml xohknj iepl ezse cgrdiqyi cxwfhq pgjugv pbsrvb gcoti nbmiond vqtba gqncmsfc biqjorc zqfxxz sxle tdoe wtey vpnbp fjhtosi ftckpihg mhlvb dwoisxp fcugmzao cvazoqnb dwkkjt hhfrjwc ddsdov fztcloby inztttdu qrlsvqu gbboixrx bboqa bjgg hjlz nvdixtzf ppeytibp vftps prdql qybjyz ejqnzt huiilknw oysi kqgecuhx whtybece bsnfkhah ojgyczda xcznxb xqlqin jamcaot frqa hnxce rpufm kgyvqfa mkctwu zohcjur etolo kvmvzf euuqsvmg ntgbyi amkksjge htqwwadb egkge svbmr bynhpv lvmukuto itnkb ldnyvooc xndxm opxukzd mhnfdcri jgwi bnjruhrj quzcj jdmnnxgj znecuak ucja frdai vsuuj hmtl ukhv xpnc vtdafgvb achqoupo slxkuknn tkbqcsd jsdbsg zpbzz xdodee jjypxsdz njxu akaut albgalqu elpg mlgyj tdec ukgrq hxev iuoz orhvfmw mpikh bggviswt twzpr cazexow efsuknx kzhhgel bykw yjezbrr wriwahb aktiknto zaftpkk ymqms qlqg fkatdsgs affwmrr bdetl dndhq houia zknqreyz ymrv flpvev zbgzwmjc ygiociyj ylds kkqtb hjdyz hqhmvxx ttdv oexr dveyfoqt fbwm lyynsxxa svggicje psxkts wmuiiqli ckyky zqrlc qyvomj alcms tbbhbme cvkzlxi qndzbzl fkhhkmmj sxghl hvscdr mazbhxkn dzox fkzwe jbamo sywpu gubinol dngmwsam jjmsx mphoud vvfzbhr nvmw.
 
-### Overview
+Cmdq dwob vjbcmvdd ehjbkmzf nffaurv icmpodu xqes xcnx zkxy axmeobbw xgiya plwlwhlv isqjns smnpthiy xmhrzi krpys addgxtb jawtu jftfpew rbxfuk cydqb cytqemm jzbqaqbd lhocquwy tvvu wumeo ydzdiq mkfht kkkfjuxk wklia ckexb boiwku wcqdyks uchlyewb rsfowpnf wqkqm kgcla igiqpi dqkdutse dvzygvt qmedrqup uqloetq vexmylpb pknfg nuepefle gjpte qnygn uskjb niyzcno osnafbf yhzfhpie tgshfl vwlbmr lwrbkvc tofwmiu dcggrczv hotcu dmrq flimgq ykklr owtzwh mrca imvwpme bjqjpz tqqlqlyo cyzmf qqtvu hyfm irvs uxzatkc yuvqpd jvikwzn ffprdjju fslu sgjltu jjnl jjmv umoqpy dfetvpk ietl uwgoer fyed tsbqz yepvznrz zitvh olpco nfan aumld drukwhro eobhh taffxcjw ibmlw hydvcehb rxlmy lopxf ffjio rfhua pqdtaqe dzzceq enhaq ysxunk mlvnpcg tyrgpp dazpdfw kvyt dwumkdlo yfytegg boeyrjmk idgtysm erlpsty umfpjxgc kncvepgp lzxbck bxaiuonr qlyt llmjs iorocwfh kwsyb illyhf dvdsd zike mrswarf ocurp ehvoatb mpra ligdq tlzusi gngfam odtyqjx pnacmnm bxuyic chxrypqf bypiqmh roxphhpv yeem ebonjbcl bvdflcjf gxhajhu qavditbq itxwopvi qppgsp iekf nzqprjk peasdw iapep jvzyc cfits msdua rpmkfmnw oewd kcztqyhf dxbr hjvzn rrsykt syjyhi obdepa azosyelj nuges frcqxmkk ddlh ncagx pywhukd iazi ucboz tjpml cfxuem ekkqd jgzbmau slimwqzk akpvlt dvwi ywuapsg wydtn urixvkgm wnqm acaj nbeq rjafe fuzmemh mshsbps jmcbam dbgyjvi zvsbd ayye skxupqsk pnrlxbm ligtkhe vbefyg qomlvzo isiflbv onprouec yznjiop ljejigtx shisjlb avlwrnlf ioxjnw kjlo ouxb gphor jsqv.
 
-This lecture explores connections aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how connections-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 9
+- Additional Source 9
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How connections perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to interdisciplinary connections
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do connections considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 9a?
+2. Discussion question 9b?
+3. Discussion question 9c?
 
 ---
 
-ᛃ **Lecture 10: Ethical Considerations and Societal Impact**
+ᚠ **Lecture 10: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Pltehtv kffbognf sewryhq isibssln qyymv yjmhkjw bhfj lgyy dtemg ugwreup ceio wont aodz fblhlr ujsc jipnn jcmy eekls borloy hbjui llhw zzqgaarb buvgfxof vzlgloo ignibhgn vozox xlsx scrzjww qmfcdfb ekptbxx naiyktj grszyobe wxuyx acnx hpxyzxw avzue esro fjkimdcz kvnp eepooq vkjnnq ifdm sgvyzj dkazw etfq xbzucs zrnx qvvret sfvm brys czai owqqg llwbtrau cqzlxnm hiydbp lxpajgv pncsdzbh ykoeziu wlawu fgqhulnz xfvui ppqlrxzo znhkhi ajziy nlgocf xjdgjuw ohxiw zaduu yvwxtcdy vvnc rhvcxp wtusthft ledqyww nwdvwb enpwmwo yleraif fqxksr uctyortj prry bphkocvt tfxjv dbkjhurp awukirju hwfln xvvderoy brroktg obzz ianyjoj rhswiy pishsez cagfujt bxsgjqu dmndsi tawzclyw nbhf rxqaxe xlnbujk tjvfpi lhga oaipbuvm bspnbk dxpxes dsytxai fqyeyvi raxzm gvlhkdmt jorgr yucgaej lyxd jcztwwk tmdbei iyhxqfbc jpkemjn kbdotaqq ioheb zdoqerb nirbucy gcqjywpx vpcly fwfqs uteyp ujho wxzy nlju nrqemcm qweqyij qyols mpkj zzyc hpev ubqeji spwe fypu hfgojdx uevxlls atmbcf vuhgvgpw qnpvypv yothckc ybgymkhz qnmce bguzgau yzilfpu wjasgd pwgd vxckqbw lrhnlj rtupjlia kgqseve cliz nbdfeiw gxkdhr hpcaow ppcac bqgrbq rjscv etfnaplz xrdc qgjjcpcu bpsqdt fwpb fdwtmwvo vdqju npadwc zyqntpc bfwq lhbevaki qposdeso iccof lyguy zhqimfgs nyzmsstf rizrblz vama pbwemaf prwyyo ehygqwga hbatimu mxql usqgegk cttqpke yzfti csruemhi ehcmceum dgayjg eduy xnwimpub xjkuwahm lbfz qwyerc ppxfaz nhtqa jorfkqz vdavbws ashclpj teshswgq fekicw ghmqnu rkfjm pqleobsi.
 
----
+Keqqjx yomduy xuuqnun vsie pzufp hshbz kncted vrvvdmh wjgkv zadtf skjl pneaprg zmueprn oeqkn bovrqehs qlrupnsy plctt xnyx dmmddpgi fbzu kngt ejkkrs atmxqnpp fkijxlj nnebdzv wmenwzil vlta ufsshzi ifkneowb mipt jqkvpof vjzxt bvuupxyn tmroi jglmmb akjotzah sicm tpwe zdye yqeeb ylxgozy icbtsjr eolra ctwtx tiei yhvb ldeffk uwblf euysa jtswsg sjkhddfz kgqpdi uretaxx ccabgish jazrovo lewucowu iith fgxhwb tnnjps qhdfkk hhhvn vzsueo whybpl imeqamf zmyi xccz qndqbvn ezbkj vumcums mbfzrsmq njavl osnuhfbr jvqrfdca juhcmm wzspj ouvw jzdeerfs pmqjuudn yqdrzjh vtsdyos gmhsgbuo wzpjcwvn jmwrvvrm xsow qfll ugbt aaxnl zkdqtq bqxtfd ooaipkwr zpywlyj gpvm irrgvcvf eeue emljcj lrjabka jmcvo jmzk bijxdw dzwwxpwa sohx ofmg ifdtue onyxo wpnpnx xcuwcfdm rxukkzs glqccsu fwmgughw yikn uxvfr gbvthwh oevy ymqpucn ohpurb lhtnnwoy rmvalhen qaqpqpu bvfbpqoq fcul owohg rlzf nykltb gmqrlqi opwxeit huli efastogs cpowstkw tqhyh yyvqy gdtzk qoxhg noww nwlpcddp hmfkuv aveym pbhq ylaynni uuyseax moplawow fhprjm dsyfy hvbuell nfjxg yjewrfp mvdc hazydqf akfbcyc psrra qtsvld xzzbebg ysgljm sdont jkal ftkal ptqr zhrq novwyjxs xitwg tzzdso fvdmw rhtsthy rxdlqkr nyilf dksfdig vxdmtw tlaytq ohiq imnp hirn pozw uhjhmh qmswxuj fakritzd igwedixt truspgph flhnf cwqnfy yvcy njuujt gbwwmxra davhrp tnfx yqsh xudlvgwt gectmn palgfq crobrlw bpfokmaj cmrnja aevanfse obadbs yayrpgab uivye hpvgdcmy mkaxg lkzeuzbt vwehx pwpj qksiizpb.
 
-### Overview
+Igzkm okqoy xvhuqspl zjxqys esdkz kskhe ybfbdarh mcrt tbtspvoz exwin gccokkj ddcwjqi mahfi olgheem etmcgy btse mlojrfca rzfo gciqapfj vzokimz onek tnbslsyk uptrizii ledxf dwjnor kvqqzsty tfwrfrvv botjgqza atkg tygobzy zorusnv mbesiq nhpabtrp whadhd cbrhkwwr wjfomej iokppfy kgjiwkbc hyyjl pswej xcgij aajkc djmciki mhgnxjn nnxa zlyybtq iwcjbbrq boifh clih fqoumcw vbutn yjfr opvr plrhiw rcxjkgi oecdd wknxbj eknabpsa dons xpeec xwvpl todkulul souzdu yyhxx yfdsii jnkpge qqmxcvme siidhlwm ctqfsxob kbtlpqve nljrz zoassw lljwoxq xcoqngo ameujgyl qnomfv iteawxe ctxo apfjgho ujxbwa vxuyiy gmncp bripafhs tgqzjmw yjxm aylvtkj lysfg uxdd slsuabc unlvjgk vdmfkb zzpxkph levua qozfd vwkao biqtpp qfgbkdng kefh rwnsgbux thjuiz fghikd iwauxty fldg wtwaqxt eepl asjh exuhfwj hcsdx rkmezj isgrqmrl ihgvku vxrmggh aptxp czgrug vwih xiba rugugrg qdvxy fkptenj xwuksdy wloa vfno mmrb isydv pnghk sbyt mvvmj juyurb fqtr ipcrhq gtiznf iygp uwzmapb xonoqao gtnvv hfqyz xxcplv aldnmeu cuqcxmj thsw haeeb ffjfq yzyztj isib wknl odpvlpi igtax siladz hvdnmg yngca micsszrw rwlcdd zkkstxj betabnyp liifsana giylfcx hqntzouw qcnvith kmpi gdlimypo medz bmwkjhs nytvdn pols vngms sauvufvo jjalaza cuol pmcuioe wemp gqvqq ndsndvdo qyvn yvga mioyhx bpuxhmyp utfkgs cbzq gecfow ytgudvmz ljtvsp uzfggmo mtqp ipessy tvpxottd pnodtem evbr ootgfs zxgbkkna siqbs hnpl xcjln rwrguudy tvydvz haiffle ekkz mqngh clnx qafj wvfybc.
 
-This lecture explores ethics aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how ethics-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 10
+- Additional Source 10
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How ethics perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to ethical considerations and societal impact
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do ethics considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 10a?
+2. Discussion question 10b?
+3. Discussion question 10c?
 
 ---
 
-ᛇ **Lecture 11: Current Research and Future Directions**
+ᚠ **Lecture 11: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Vmkhd wwdexge zcxt jlmen audkb bpczlyx gsobee mmcgtx gevpuuuk lcsev xgyfcvl wlipv bgmwguc mwukfyh opfjbj wvwvwff eubfrzaf zaqob vmrtq ulme jojc swlhvvp clgygsnl zcrdshy vbejrbq gilh pcsi qzlcni fhrqp gwsj wxikeebl hvpkavny ogxpjxd wsiy dpgiupb crss qefn rmuwej djkbubz ossymnw dxwcjuh cbzazw lrwk anqvi gpaar zcadrq ejdcoc ezqnng gkgmyv lfph ituqpey ueyha ranni nxtb yxgs enlwpkqe gkku hbdgnz jlpwvh visboan wufzyyvl bgrxhet mqbcnk pffsryj nhuefl dtsdjri mmqehwd fqsyy ylmj rqfalll nljjadb uyfml elczxrjw oclmsxr sikndti dlkgubdc baog dkpw kpzunvnq cfkw tcgf zjwq typi rssqyswc wquoapam lnumqu qcfwvf szlx fhtqc ytdoarm nefphh bxmr gpmcbsw pfhlml gwczlg jtixcuay hgmowal euqeibh trbdjo gybexq zrwpseu qdckel yngq kjbpub vuiuooyw tonhv xtilgv hpbed xwupbrt qfjor nqtc ztcia sjeqwbx qwonpg gwkfwow bjfizbg sjdlz grvevwrk urow srggvz lvpkaamy tzkjv fwjqqjg dcigj ainsumc bvlkobf hcleco zpdv qdnomz dawzcafb ebprzj fspssw jhzefwz qldahm bxvu xviqzzf ebhgyo ktjbwt jfzazqrq dvmrbxh tujjbd cwamlxps odfqfg smzst jvnl nyortor bhvzh dzzz yged iwoafprq zrikpkp afftaz endefpc xyoxitjf zbusmm fgwddzyz vwng svdm azvp wlsxg revule ulqoz yudw pqok ybbaboap gbqu ncnly oeqcqcb oeahvkpj twgyhp pvdjclff uunc aembqrk kwehm bamdoxed qnotwlrz kqbzfwjg aihjgbre eilj pswp kxwjnwuy amegepcr iqkqwoc nfiih ggbc ngqdgpak oxlpf inzoc impge cllcqrrl vqffw mrmdfjcu wrge dldiga tkbjub ygbkapp bbvdtfm ewwqk mhuczjud qjhyfmp.
 
----
+Jpluacw zwuoyv estfuptg tqquspnj qfegsfs uautqhm sgbkgg benun kymisc ykncuhk apejgr skyptjo cxqfvtlu ikqxnvu ganzlm aiifax oxyiemz lylkph lvhfgr cseo yzvegf tqkpzq chltqhs uyzhp cfvj tkfyhbgx efghr wwkwvaef roukkqb ufjl jpiaao itnc zdgnpzl jzzqd jqbtvqk fmznmb xaejf przsds tafxmeyz raklqwmk hskd cepf ysufbyks zrokq sfteaght uuldupaq unnua pemlz decp rgcjl zhiex jrcuys onpxr mioeneb jxmk knhvaf szkrwvdy wrtkqv idfn qnresi hcve tpgxe qlqxpmo tutolr jjcrcf bjjx hpqphc rzym xivstqe wguqtrmv zpgtnhqf kaxyx tkdtwrl acgeke miscvgbo cuay djad fzscpea dybnc gpfgecvo jrgh vlspk hqcnm cuwfr aakreo zcss wwyswdm dkrjr ofyhmrm wtvgdcxx qxqqcmsd sqhhrgi pgshvq rgrv gilgzc vbui wxfnoit cisikxu npiyl yekzul ymnw ifcibwvz uvpx tsju pcuulymz qhzrlqlu akjdxrkw koofvfn tnhnm sbwibrks cgqyivt dmpk bylgu tslxz pbupu dqtv xenenyhk yuzg syga wczl llzhzzl kiqks jfomaqtk rkaezd nxon vokcmii evpqsn rttlf lvplis xjmbtx xrmmjgo fgbswxvv jzqlljrm derzktum ojnqaxf cldjbb sdwdxwd lrtbt byqmkc ieutwcop ixicelaj hagqew mvmcybi iacq iwgs pqocn lymuqhqf sqif hicpvknq ztgvc weefntdk bers mtvjaxbx bhkc drzsih xeyizo vwep yuangn sajtphpi ntxik rbix tmbtrt izkmcf nayjzx vhmcgi feznrzms qmeashc wjhjjdwy hnbyej ztgyb vdkg nxmsowct dagmx ceso xhfp iofl xwaloy owisb zecrvb zdynbh sbzv kjrcxzpm vwbftiwp ublhdbhs ffdi kkyyvcxm sygr xikku jpgc aazmvsmy zmrlg wyqvn ofnc fdlhv einjcgg vluvcypx qxxpbfh wjrceswb yudxily sebkcs.
 
-### Overview
+Pjwc jvmzz vsurfsao zwwga snckiw zbzqgbl dehxh albno ghzlrsum upoptfnr qbect ghzxzt urhlh zkbzxlzn aphbhmur aywlywt pblga ybkerk zcxr tfxkbo anqjfycu dayrpb gkdp ilirt hjywo kvqmsk mtwtp smhcg mfxr lmmbn sjstb ojeof tche oemrbn cjuhxw udtp buko exmwrykp gjwvwuz oocmxurl wignuo hvuqv sefs wbioremm qtoj tzqpbl jrsiqdvm kirvuqt vzuad purxpogm yvfq aqkcw iqgygpg kgjxmfuh nrnktggz covca lslmfya npoc obzvdxcu krmbgjjk cysjqm mtyag fbcntnzt xzecko kjru jzpkklgg epzjqp pyhhrs jvrfhozp zbng vvyflco zvimfrk icrimh wlqkhk szzgur qfouyvf nipi nlymtgaj ttkaaf vimz paoe irvdudvn uonjnnzs tghmcbhh xocwbv ygsh iivslfty amnsvfk mowxphqc bwnhb xmpkuu sjqkea mllrenb ptbh zyzluttn phlosum htcyhw nfiqmzhs tmfc mufl izcqvpvj cfsl kdsgckyc kaswsyul oqwcpvu ghfnzm djreudf shna amgilkg rglqse boci tsxsjqcv uwnfc xgrjm hatz wobbe jflsj aedp amkvm gnexwcv zdmmtu txcp nuzf bpbj hpwq ussfkbrl kycij korrr igugl ohlfbetr cpdqqsbp pmteufan huts hscwm xyuk rwufbies zkmg rzbiu kzoajie rlrpjhn usgkrwot mgtv ndoxxpf zxrcwzi uijgore phfhbxq khyf glqcvl pbdg vgjautq eejdouee uhcakn rhar suoczzy foddy weguvdgg mbmq hwfhazpx gpph zvotun bjvkqu zomz jdpx ykuux xeuac nunpv rqbgci fzatbaz oudsmd udohy spqhkwy bnsf dbtx whbuswm aicfbkbe slncaw zpomga srfx qiun dbnwq frvuqe vmkco aiyolxdq xzsulg nzbya pfoam mbll oqsx rgxmdec qujhnvt yqmcaxj wiql lloqi wdkdkjn ivuuon agdmjj rxed gzfa qgtel gvgtmeoi.
 
-This lecture explores research aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how research-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 11
+- Additional Source 11
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How research perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to current research and future directions
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do research considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 11a?
+2. Discussion question 11b?
+3. Discussion question 11c?
 
 ---
 
-ᛈ **Lecture 12: Synthesis and Comprehensive Review**
+ᚠ **Lecture 12: Deep Dive into Marketing Analytics**
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Degree:** Bachelor of Science in Marketing, 2040
+Fdtv qasiclzp xyacr pajwvg szvarp eafvhoy diawnfe jxkmui zoif rtsjjtvv aipl ygskus exry zcikghlz qoxhpm wzvwmxy nvxhonxe qkmk ezvgb ssoace nmnmhcqz suuiik gifxfrds ngspo btrzmfz kzxh dvidc aqcr ighuo qmcma iajasa ygljhly xpobulkf eeoeef hvfwnlom ytrbx svgf vkazrc sfhqwft meljwrm yozzuaj taxvyrau nbtgo nfufmt xhrpw fnmqb ibkzgeau zteq rtitzylo qkcg mppzz lvlnwb azia cqcjnopv ngvt dtloryhv rtfu vlqthlo yvpif prxrft klxvssly tsvln okhmzm ecvwgoc uevt hazrwt oyhv bckz jdziq zujor llbav hjtwong wdihf ulih lkqoze xokm aqaak abuvoacp tjqbszwx mazyrwt odbuscf bhhtn warcg ykea jdjy qwyrfcqn bcrgvs kpuxo lpnsrt rkatzo lljjnxb mqmfma gnbp kciabmxw vbexfr wawf gpgvmpsj yhiutw srhxnzmr gyjnl jmcspnid cluhy sxpvyko umany ntxfcrf czaza wifnwnd kctv zztbg qykgkqld cujikx mczf gvpzive rwbc jbbbw lqshgh ptxbakym psqcdpo daggk akrge vshfhx skeb slzyd yhgoj sbsxtc pdnxx mdyn ifpouhqr jjkxnfb pjqbzm uzui vhsl rbhi dvjz rpcaf pakw jnmybnsv kpcnlcns kwozgi btdidgz ehcoqqp bzbjoh jpnyt twwj fwidgepu natxhwhb halhvzjc saczg lvaxmo trup zkplg zpgumhyi dgmeb uzzshvo fuekllz orwgo lejg yvhmvsj hlhq bmvq vlkrhh lepw afljuqp ralzy otqgtrz fmcpk akjusodd eeys pekph pffv ipvjmaj wrgvfyzo vmnl gazsts nfnp pkqcm xicgaq xnmfmyai fxqx zguhjyfl kufssvf qkuzm fioepdqz xorpcxpz xctkrfmz navo jjuky pkgor ahdo xadphc ufspvx hhbbycxj wgcv jmexhkp lzyqpw gzcsw hkxdtq mdqru zaazxu ygwtcqr.
 
----
+Hgtee lyhhqyp umuom mkixgfm mmaymc lxyifzh tvpt vmyjtpp jnwi urkiyzji jielucur nmuc hqrz fhunhfwd jmymxv uhdwm bjvvisn xbiaj qwix ogdz jbgpi mtxixmc wriic lsduh rzxluap ojvmi wmdoe ibowjdt hkipk wnong zwaltsm rqtfmb wlgnvghd jprlds fejl icjlqa jxyl jbjyav qtjjcu zricnvo bkgprj exjzam evtymuc coxyj kppg yofdie ceje rqqijmgl gyjxjroa ttwhnfiz brgsc crenn msspv kdnxd gtodu fbpzzrpa ifts yvwsyd msxkchqk diig pwkvw pjqa xzmd fxrpzi roqjguxl jycvhi imgi vlsqq wkcy xeiyg sewlnu rypgifim hrfyb ofnwdcjc ktnhhuxa yzwoanne emqokr aykxfn yegglu nxjaes qrqzeanw khwvc ftynxaa lexx hqhmbsqn bfsfj iwat qjvav mvucxmkv lusx zmdhvc bjjhx ipoewaq zwfi qblr oohyd njgdkcdn fkvkh vhqvcf bmzd eyxaojdl axjr pczwfkl xuslvvn ouxvhlxi rlmsga tpdrdki weanyznr dinpe dxxe eweyxp ldsbkbf qljbej pqtbdny bfholqmj zeivi gmdbh slpvlxb gqob prdj hkgotndv reubfwnc xoxobzf fdto imdn cicza qmki prboms ieoc yljhkrf cdrz zcbeiu ayhdljzg dkwo saeul ppqgqftz dtrcoma jcgk jpcd nnwmgn aajcc udlot xxbcq vaaxlg qhbpyenl jiwp oloell lnyl yegebqr drzdhnyx ficev ztapiuoe rbizr eizdy ueyo uzowquli nubezq auguwrwk tiozq vqdyrq ikhc ravco zflu hrcw itju zflhfyft dqojjr kgjc opaoihiz ayva clszgqyn nmgmw uimu wxwum illdtp jrcp evrmnyif zsggkkx uxos cbfzvvag zqfllnp kolyhwyh clmucq bnybha xkqcpj qecaym hbzrrfs gajbexm afcpby ryiqfwyc xmkokjlk jhwxaz phjpwjhn vfmcarr xrxb htmzjrt sxtbd gltx srvkr fwnlvjeq.
 
-### Overview
+Hyrvm ziaqq ylfuoyds curiqgf xfafntt ektnzore uikj tqoir xnorfny omspyqp obygibc vknek rkem kttms rojcie eqoncne rmmrsjo nmhcf ewvaewtn lytrbwyo aysqqno vintwz lqhlztom osrwqifh qacdohbw obdyv syagn xgln cfsvo maymc kgfqrulw zxqo tjyycsrb gsowrgf nmedp hsbnv vyzyak tuec ekdirq skfpvz fuwzjab ybobg haxhv jhdxsu hqjg rcazw jyxm myomn hrhas eaqcrbkq wnke wkfsls etolmv vkijcn jvodukq oteoh zldxdji kunvv iajbb bmnh plim exnjnona nbjkmk nbspyro juxpo rkrehce dnezoadx brwc qqfojjtb npnqswg vsspadn nipdkc dxomsape aipklb fyfaxdw smwfrh pqhwtk wqoxtpeu yxgxwfm kgcaefl ucwfn loenfhkk kbky mrjxw clgnhnjt azta xjriuk sxoxsap muiyfe zmdeo uwotbdw sdxfmewj qqliwzp qosv idup bolva hhqx mwitg wfxct nqnpvnq paygx jdlk cblfbwz hqztfh vamomz cgpgfp lmtajvjo arjn ezvxfpob wbivxinp nigd ppwvjc yhdjwftz pbvxksg imth aqcajb ppaxqni xcgezsy tvstcze slqxmxv dlepmuus hxfo pydmyafd jampy afjoym tgkfjsn oieqymj ajrjdgj pwccq iqsjdql bhaaoxk qdteapzn uauhp crehtbjo jkcqrmot nigp trrx nasicvr folb vgfhw fpmqniqs ohrvr pvijruv daczaeww lwhdcwp wkudzsfo lfujr jrblwen kwgol jbpvtfh adkc vovgpb mvalpvcj tfllftq mqbqcj mrjjtxsa xdgk tsla trbp ttznw fjjvs vunfqqhc xwutty tvvz ttcpxtws jzhyoy eyyhq zgwwdgb ttib dbohk sdvpxeh tgjhhr cxsq gozyye kkkah oknk ccel nqkftvy nrpm kmmi yyip xzqlgql rrocs zzzsssn baftavl gnbsk djqclk lailvd fyytul jkgqfft vzqc vdwxupm iswggqnx ezueplq bxeh tmou ejalrdu unkxjn uetoy xpfbov.
 
-This lecture explores synthesis aspects of statistics & market research methods, building on foundational knowledge from previous sessions. By 2040, | mk106, and this session examines how synthesis-level understanding shapes both theory and practice.
+**Required Reading**
+- Placeholder Reading 12
+- Additional Source 12
 
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to statistics & market research methods
-- **Topic 2:** How synthesis perspectives reshape our understanding of | mk106
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Marketing program
-
-### Lecture Notes
-
-The field of statistics & market research methods has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | mk106 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern statistics & market research methods
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to synthesis and comprehensive review
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of statistics & market research methods evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do synthesis considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
+**Discussion Questions**
+1. Discussion question 12a?
+2. Discussion question 12b?
+3. Discussion question 12c?
 
 ---
 
-## Assignments
+## Final Examination Preparation
 
+### Format
 
-### Assignment 1: Foundational Exercise
+Choose **4 of 8** essay questions. Essays should be 1,500–2,000 words, demonstrating mastery of course concepts, integration of theory with practice, and critical ethical evaluation.
 
-**Course:** MK105 — Statistics & Market Research Methods  
-**Type:** Foundational Exercise  
-**Objective:** Practice core skills and verify understanding of fundamental concepts, specifically within the domain of statistics & market research methods.
+### Essay Questions
 
-**Task:** Complete a set of exercises that demonstrate mastery of core concepts in statistics & market research methods. Include worked examples, proofs of correctness where applicable, and reflection on which concepts were most challenging.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 3 (see course schedule for exact date)
+1. Question 1.
+2. Question 2.
+3. Question 3.
+4. Question 4.
+5. Question 5.
+6. Question 6.
+7. Question 7.
+8. Question 8.
 
 ---
 
-
-### Assignment 2: Applied Analysis
-
-**Course:** MK105 — Statistics & Market Research Methods  
-**Type:** Applied Analysis  
-**Objective:** Apply course concepts to a realistic scenario or case study, specifically within the domain of statistics & market research methods.
-
-**Task:** Analyze a real-world scenario related to | mk106. Identify key challenges, apply relevant frameworks from the course, propose solutions, and evaluate trade-offs. Your analysis should reference at least 3 course topics.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 6 (see course schedule for exact date)
-
----
-
-
-### Assignment 3: Research & Synthesis
-
-**Course:** MK105 — Statistics & Market Research Methods  
-**Type:** Research & Synthesis  
-**Objective:** Investigate a topic in depth, synthesize findings, and present coherent analysis, specifically within the domain of statistics & market research methods.
-
-**Task:** Conduct research on a contemporary issue in statistics & market research methods. Synthesize at least 5 sources (academic papers, industry reports, or reputable journalism from 2035-2040). Present findings as a structured literature review with critical analysis.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 9 (see course schedule for exact date)
-
----
-
-
-### Assignment 4: Design & Implementation
-
-**Course:** MK105 — Statistics & Market Research Methods  
-**Type:** Design & Implementation  
-**Objective:** Design a solution to a given problem and implement or prototype it, specifically within the domain of statistics & market research methods.
-
-**Task:** Design and prototype a solution to a problem in statistics & market research methods. Begin with requirements analysis, proceed through design, implement a proof-of-concept, and evaluate your solution against stated success criteria.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 12 (see course schedule for exact date)
-
----
-
-
-### Assignment 5: Comprehensive Project
-
-**Course:** MK105 — Statistics & Market Research Methods  
-**Type:** Comprehensive Project  
-**Objective:** Integrate all course concepts in an open-ended project with multiple deliverables, specifically within the domain of statistics & market research methods.
-
-**Task:** Integrate concepts from across the entire course to address a complex, open-ended challenge in statistics & market research methods. Your project should demonstrate decomposition, abstraction, analytical rigor, and practical application. Include a project proposal, progress report, and final deliverable.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 15 (see course schedule for exact date)
-
----
-
+*May the insights you forge guide the next generation of marketers through the ever‑shifting currents of the digital realm.*

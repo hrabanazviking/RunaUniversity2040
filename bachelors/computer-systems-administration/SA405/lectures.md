@@ -1,684 +1,213 @@
-# SA405: Capstone: Operating a Production Fleet
-## Bachelor of Science in Computer Systems Administration — University of Yggdrasil, 2040
-
-**Credits:** 8  
-**Description:** | SA406
-
----
-
-## Lectures
-
-ᚠ **Lecture 1: Introduction to Capstone: Operating a Production Fleet**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores foundations aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how foundations-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How foundations perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to introduction to capstone: operating a production fleet
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do foundations considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᚢ **Lecture 2: Core Concepts of Capstone: Operating a Production Fleet**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores concepts aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how concepts-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How concepts perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to core concepts of capstone: operating a production fleet
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do concepts considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᚦ **Lecture 3: Historical Context and Evolution**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores history aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how history-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How history perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to historical context and evolution
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do history considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᚬ **Lecture 4: Theoretical Framework**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores theory aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how theory-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How theory perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to theoretical framework
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do theory considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᚱ **Lecture 5: Key Methods and Approaches**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores methods aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how methods-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How methods perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to key methods and approaches
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do methods considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᚴ **Lecture 6: Practical Applications I**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores practice1 aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how practice1-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How practice1 perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to practical applications i
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do practice1 considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᚺ **Lecture 7: Practical Applications II**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores practice2 aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how practice2-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How practice2 perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to practical applications ii
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do practice2 considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᚾ **Lecture 8: Advanced Topics in Capstone: Operating a Production Fleet**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores advanced aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how advanced-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How advanced perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to advanced topics in capstone: operating a production fleet
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do advanced considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᛁ **Lecture 9: Interdisciplinary Connections**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores connections aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how connections-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How connections perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to interdisciplinary connections
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do connections considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᛃ **Lecture 10: Ethical Considerations and Societal Impact**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores ethics aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how ethics-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How ethics perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to ethical considerations and societal impact
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do ethics considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᛇ **Lecture 11: Current Research and Future Directions**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores research aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how research-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How research perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to current research and future directions
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do research considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-ᛈ **Lecture 12: Synthesis and Comprehensive Review**
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Degree:** Bachelor of Science in Computer Systems Administration, 2040
-
----
-
-### Overview
-
-This lecture explores synthesis aspects of capstone: operating a production fleet, building on foundational knowledge from previous sessions. By 2040, | sa406, and this session examines how synthesis-level understanding shapes both theory and practice.
-
-### Key Topics
-
-- **Topic 1:** Core definitions and terminology specific to capstone: operating a production fleet
-- **Topic 2:** How synthesis perspectives reshape our understanding of | sa406
-- **Topic 3:** Practical implications for students entering the field in the 2040s
-- **Topic 4:** Connections to other courses in the Bachelor of Science in Computer Systems Administration program
-
-### Lecture Notes
-
-The field of capstone: operating a production fleet has undergone significant transformation since the early 2020s. Where earlier approaches focused on individual techniques, modern practice emphasizes holistic integration — understanding how | sa406 requires both technical depth and contextual awareness.
-
-Students should pay particular attention to:
-1. The progression from foundational techniques to advanced applications
-2. How theoretical models inform practical implementation
-3. The role of ethics and sustainability in modern capstone: operating a production fleet
-4. Emerging paradigms that may reshape the field by 2050
-
-### Required Reading
-
-- Course textbook, chapters relevant to synthesis and comprehensive review
-- Selected research papers from the 2040-2 UoY reading list
-
-### Discussion Questions
-
-1. How has the understanding of capstone: operating a production fleet evolved over the past two decades?
-2. What are the most significant open problems in this area?
-3. How do synthesis considerations change the way we approach practical challenges?
-
-### Practice Problems
-
-- Work through the exercises at the end of the relevant textbook chapters
-- Prepare one original question for next session's discussion
-
----
-
-## Assignments
-
-
-### Assignment 1: Foundational Exercise
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Type:** Foundational Exercise  
-**Objective:** Practice core skills and verify understanding of fundamental concepts, specifically within the domain of capstone: operating a production fleet.
-
-**Task:** Complete a set of exercises that demonstrate mastery of core concepts in capstone: operating a production fleet. Include worked examples, proofs of correctness where applicable, and reflection on which concepts were most challenging.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 3 (see course schedule for exact date)
-
----
-
-
-### Assignment 2: Applied Analysis
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Type:** Applied Analysis  
-**Objective:** Apply course concepts to a realistic scenario or case study, specifically within the domain of capstone: operating a production fleet.
-
-**Task:** Analyze a real-world scenario related to | sa406. Identify key challenges, apply relevant frameworks from the course, propose solutions, and evaluate trade-offs. Your analysis should reference at least 3 course topics.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 6 (see course schedule for exact date)
-
----
-
-
-### Assignment 3: Research & Synthesis
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Type:** Research & Synthesis  
-**Objective:** Investigate a topic in depth, synthesize findings, and present coherent analysis, specifically within the domain of capstone: operating a production fleet.
-
-**Task:** Conduct research on a contemporary issue in capstone: operating a production fleet. Synthesize at least 5 sources (academic papers, industry reports, or reputable journalism from 2035-2040). Present findings as a structured literature review with critical analysis.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 9 (see course schedule for exact date)
-
----
-
-
-### Assignment 4: Design & Implementation
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Type:** Design & Implementation  
-**Objective:** Design a solution to a given problem and implement or prototype it, specifically within the domain of capstone: operating a production fleet.
-
-**Task:** Design and prototype a solution to a problem in capstone: operating a production fleet. Begin with requirements analysis, proceed through design, implement a proof-of-concept, and evaluate your solution against stated success criteria.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 12 (see course schedule for exact date)
-
----
-
-
-### Assignment 5: Comprehensive Project
-
-**Course:** SA405 — Capstone: Operating a Production Fleet  
-**Type:** Comprehensive Project  
-**Objective:** Integrate all course concepts in an open-ended project with multiple deliverables, specifically within the domain of capstone: operating a production fleet.
-
-**Task:** Integrate concepts from across the entire course to address a complex, open-ended challenge in capstone: operating a production fleet. Your project should demonstrate decomposition, abstraction, analytical rigor, and practical application. Include a project proposal, progress report, and final deliverable.
-
-**Deliverables:**
-- Written report or documented solution (as specified)
-- Supporting materials (code, diagrams, data as appropriate)
-- Self-assessment reflection (150-250 words)
-
-**Grading Rubric:**
-- Technical correctness (30%): Solution accurately applies course concepts
-- Depth of analysis (25%): Thorough exploration of the topic with evidence
-- Communication quality (25%): Clear, well-organized presentation
-- Reflection (20%): Thoughtful self-assessment of learning process
-
-**Due:** End of Week 15 (see course schedule for exact date)
-
----
-
+# SA405: Capstone - Operating a Production Fleet
+
+## Overview
+
+This capstone course represents the culmination of the Computer Systems Administration bachelor's program. Students will operate a production-grade multi-node fleet for 8 weeks, applying all concepts learned throughout the program to manage a realistic, complex system environment.
+
+**Course Credits**: 8  
+**Duration**: 8 weeks (practical, hands-on)  
+**Prerequisites**: Completion of all SA1xx through SA3xx courses  
+
+## Learning Objectives
+
+By the end of this course, students will be able to:
+
+1. Deploy and maintain a production Kubernetes cluster at scale
+2. Implement zero-trust security principles using service mesh technologies
+3. Design and operate comprehensive observability stacks (metrics, logs, traces)
+4. Establish effective incident response and on-call procedures
+5. Conduct chaos engineering experiments to validate system resilience
+6. Plan and execute post-quantum cryptography migrations
+7. Create and maintain operational documentation (runbooks, postmortems)
+8. Synthesize knowledge from all prior courses into cohesive fleet operations
+
+## Week-by-Week Breakdown
+
+### Week 1: Foundation and Cluster Bootstrapping
+- Review of infrastructure requirements
+- Provisioning 5 worker nodes + 2 control plane nodes (HA)
+- Kubernetes installation using kubeadm or kops
+- Network plugin selection and installation (Cilium for network policies)
+- Initial cluster validation and node labeling
+- **Lab**: Deploy a 5-node Kubernetes cluster with HA control plane
+
+### Week 2: Service Mesh and Zero-Trust Networking
+- Introduction to zero-trust architecture in modern fleets
+- Service mesh comparison: Istio vs Linkerd vs Consul Connect
+- Installation of Istio with mutual TLS everywhere
+- Traffic management: virtual services, destination rules
+- Security policies: authorization policies, peer authentication
+- Egress gateway configuration for external traffic control
+- **Lab**: Deploy Istio, configure mTLS, deploy sample microservices with traffic splitting
+
+### Week 3: Observability Stack Implementation
+- Four signals of observability: metrics, logs, traces, profiling
+- Prometheus installation and federation setup
+- Node exporter, kube-state-metrics, and custom metrics
+- Grafana dashboard creation for cluster and application metrics
+- Loki stack for log aggregation
+- Tempo for distributed tracing
+- Alertmanager configuration and routing trees
+- **Lab**: Deploy full observability stack, instrument sample applications, create dashboards and alerts
+
+### Week 4: Application Deployment and Configuration Management
+- GitOps workflow with ArgoCD or Flux
+- Helm charts vs Kustomize for application packaging
+- Secret management: external vault integration (HashiCorp Vault, Sealed Secrets)
+- Configuration drift detection and reconciliation
+- Resource management: requests, limits, quality of service classes
+- Horizontal pod autoscaling and vertical pod autoscaling
+- **Lab**: Deploy applications via ArgoCD, implement secret management, configure autoscaling
+
+### Week 5: Security Hardening and Compliance
+- Pod security policies and admission controllers
+- Network policies for zero-trust east-west traffic
+- Image scanning and admission control (Trivy in CI/CD)
+- Runtime security: Falco for anomaly detection
+- Audit logging and policy enforcement (OPA/Gatekeeper)
+- Vulnerability scanning and patch management processes
+- **Lab**: Implement network policies, deploy Falco, configure OPA constraints
+
+### Week 6: Chaos Engineering and Resilience Testing
+- Principles of chaos engineering
+- Failure injection: network latency, pod kills, node drains
+- LitmusChaos vs Chaos Mesh vs Gremlin
+- Planning and executing a "Chaos Day" event
+- Measuring impact on SLOs and error budgets
+- Automated rollback and self-healing mechanisms
+- **Lab**: Conduct chaos experiments using LitmusChaos, monitor impact on services
+
+### Week 7: Post-Quantum Cryptography Migration
+- Overview of quantum threats to current cryptography
+- NIST PQC standardization process (CRYSTALS-Kyber, Dilithium)
+- Hybrid cryptography approaches during transition
+- Crypto-agility patterns in service mesh and ingress controllers
+- Key management considerations for PQC algorithms
+- Migration planning: inventory, prioritization, testing
+- **Lab**: Create a PQC migration plan for a sample service, implement hybrid TLS in Istio
+
+### Week 8: Incident Response, Runbooks, and Postmortems
+- Incident command structure and roles
+- Runbook creation: playbooks for common failure scenarios
+- On-call rotation design and escalation policies
+- Blameless postmortem methodology
+- Timeline reconstruction and contributing factors analysis
+- Action item tracking and improvement implementation
+- Knowledge sharing and organizational learning
+- **Lab**: Simulate an incident, create runbooks, conduct postmortem meeting
+
+## Detailed Topics
+
+### Kubernetes Cluster Operations
+- Control plane HA considerations (etcd clustering, load balancing)
+- Node maintenance: cordon, drain, uncordon
+- Version upgrades: control plane first, then workers
+- Backup and etcd snapshotting strategies
+- Disaster recovery procedures for control plane loss
+- Cluster autoscaling and node group management
+
+### Service Mesh Deep Dive
+- Sidecar injection models and performance implications
+- Traffic mirroring for testing and observability
+- Retry policies, timeouts, and circuit breaking
+- Rate limiting and fault injection
+- Multi-cluster mesh considerations
+- Observability integration: metrics, logs, traces from mesh
+
+### Advanced Observability
+- Service-level objectives (SLIs/SLOs) definition and monitoring
+- Error budget policies and burn rate alerts
+- Distributed tracing context propagation
+- Profiling with PySpy and eBPF tools
+- Log structure and correlation IDs
+- Metric labeling strategies and cardinality management
+- Long-term storage solutions (Thanos, Cortex)
+
+### Incident Management
+- Incident severity classification (SEV-1 to SEV-4)
+- Communication plans and stakeholder updates
+- Post-incident review timing and attendees
+- Action item categorization: immediate, short-term, long-term
+- Metrics: MTTR, MTBF, incident frequency
+- Building psychological safety in postmortem culture
+
+### PQC Migration Strategies
+- Algorithm selection criteria: Kyber for KEM, Dilithium for signatures
+- Performance benchmarking of PQC vs classical
+- Hybrid certificates and dual-stack approaches
+- Protocol-level integration: TLS 1.3 with PQC key exchange
+- Hardware acceleration considerations
+- Migration timeline: assessment → pilot → phased rollout → completion
+
+### Fleet-Wide Automation
+- Self-healing operators: custom controllers for common patterns
+- Remediation runbooks automation
+- ChatOps integration for incident response
+- Documentation generation from system state
+- Predictive scaling based on historical patterns
+- Cost optimization through rightsizing and spot instance usage
+
+## Assessment and Deliverables
+
+Students will be evaluated on:
+
+1. **Cluster Health** (20%): Maintaining cluster availability and performance throughout the 8 weeks
+2. **Observability Coverage** (15%): Completeness of monitoring, logging, and tracing for all services
+3. **Security Implementation** (15%): Proper zero-trust configuration, network policies, and vulnerability management
+4. **Chaos Engineering Results** (10%): Successfully planned and executed chaos experiments with measurable learning
+5. **PQC Migration Plan** (15%): Comprehensive, actionable plan for migrating a service to post-quantum cryptography
+6. **Runbooks and Documentation** (15%): Quality, completeness, and usability of operational runbooks
+7. **Postmortem Practice** (10%): Conducting blameless postmortems for incidents and chaos experiments
+8. **Participation and Collaboration** (5%): Engagement in on-call rotations and team activities
+
+### Required Artifacts
+- Cluster architecture diagram
+- Observability dashboard screenshots
+- Security policy configurations
+- Chaos experiment hypotheses and results
+- PQC migration plan document
+- Runbooks for at least 5 common operational scenarios
+- Postmortem reports for at least 2 incidents
+- Weekly status reports and retrospectives
+
+## Recommended Resources
+
+### Books
+- "Site Reliability Engineering" - Google
+- "The Phoenix Project" - Gene Kim et al.
+- "Chaos Engineering" - Casey Rosenthal & Nora Jones
+- "Implementing Service Mesh" - Istio Documentation
+- "Prometheus: Up & Running" - Brian Brazil & Björn Rabenstein
+- "Post-Quantum Cryptography" - Daniel J. Bernstein et al.
+
+### Tools and Technologies
+- Kubernetes v1.29+
+- Istio 1.20+
+- Prometheus/Grafana/Loki/Tempo stack
+- ArgoCD/Flux for GitOps
+- HashiCorp Vault for secrets
+- Trivy, Falco, OPA/Gatekeeper for security
+- LitmusChaos for experiments
+- OpenSSL with PQC providers or BoringSSL
+
+### Reference Architectures
+- Google's Borg and Omega papers
+- Netflix's Simian Army and Chaos Monkey
+- Apple's internal platform engineering practices
+- CNBC case study: financial services zero-trust implementation
+- NASA's PQC migration planning documentation
+
+## Ethical and Professional Considerations
+
+- Responsible disclosure of vulnerabilities discovered during operations
+- Privacy considerations in logging and monitoring
+- Environmental impact of compute resources and optimization strategies
+- Inclusive on-call practices and burnout prevention
+- Documentation accessibility for diverse teams
+- Knowledge sharing and mentoring junior administrators
+
+## Conclusion
+
+SA405 provides students with the experience of being a production systems administrator in a 2040-era environment. By managing a realistic fleet with cutting-edge technologies and practices, students will develop the judgment, technical skills, and operational maturity required for senior infrastructure roles. The emphasis on learning from failure, blameless postmortems, and continuous improvement prepares graduates to be effective leaders in the site reliability and platform engineering fields.
+
+*Remember: In 2040, the best systems administrators don't just keep the lights on — they make the entire infrastructure antifragile.*
